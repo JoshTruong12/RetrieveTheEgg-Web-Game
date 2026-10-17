@@ -1,0 +1,4059 @@
+{
+    "1,0 N": {
+        "img": "/imgs/entrance/entrance_0_N.png"
+    },
+    "1,0 E": {
+        "img": "/imgs/entrance/entrance_0_E.png"
+    },
+    "1,0 S": {
+        "img": "/imgs/entrance/entrance_0_S.png"
+    },
+    "1,0 W": {
+        "img": "/imgs/entrance/entrance_0_W.png"
+    },
+    "0,0 N": {
+        "img": "/imgs/entrance/entrance_1_N.png"
+    },
+    "0,0 E": {
+        "img": "/imgs/entrance/entrance_1_E.png"
+    },
+    "0,0 S": {
+        "img": "/imgs/entrance/entrance_1_S.png"
+    },
+    "0,0 W": {
+        "img": "/imgs/entrance/entrance_1_W.png"
+    },
+    "-1,3 N": {
+        "img": "/imgs/entrance/entrance_2_N.png"
+    },
+    "-1,3 E": {
+        "img": "/imgs/entrance/entrance_2_E.png"
+    },
+    "-1,3 S": {
+        "img": "/imgs/entrance/entrance_2_S.png"
+    },
+    "-1,3 W": {
+        "img": "/imgs/entrance/entrance_2_W.png"
+    },
+    "-1,2 N": {
+        "img": "/imgs/entrance/entrance_3_N.png"
+    },
+    "-1,2 E": {
+        "img": "/imgs/entrance/entrance_3_E.png"
+    },
+    "-1,2 S": {
+        "img": "/imgs/entrance/entrance_3_S.png"
+    },
+    "-1,2 W": {
+        "img": "/imgs/entrance/entrance_3_W.png"
+    },
+    "-1,1 N": {
+        "img": "/imgs/entrance/entrance_4_N.png"
+    },
+    "-1,1 E": {
+        "img": "/imgs/entrance/entrance_4_E.png"
+    },
+    "-1,1 S": {
+        "img": "/imgs/entrance/entrance_4_S.png"
+    },
+    "-1,1 W": {
+        "img": "/imgs/entrance/entrance_4_W.png"
+    },
+    "-1,0 N": {
+        "img": "/imgs/entrance/entrance_5_N.png"
+    },
+    "-1,0 E": {
+        "img": "/imgs/entrance/entrance_5_E.png"
+    },
+    "-1,0 S": {
+        "img": "/imgs/entrance/entrance_5_S.png"
+    },
+    "-1,0 W": {
+        "img": "/imgs/entrance/entrance_5_W.png"
+    },
+    "-1,-1 N": {
+        "img": "/imgs/entrance/entrance_6_N.png"
+    },
+    "-1,-1 E": {
+        "img": "/imgs/entrance/entrance_6_E.png"
+    },
+    "-1,-1 S": {
+        "img": "/imgs/entrance/entrance_6_S.png"
+    },
+    "-1,-1 W": {
+        "img": "/imgs/entrance/entrance_6_W.png"
+    },
+    "-1,-2 N": {
+        "img": "/imgs/entrance/entrance_7_N.png"
+    },
+    "-1,-2 E": {
+        "img": "/imgs/entrance/entrance_7_E.png"
+    },
+    "-1,-2 S": {
+        "img": "/imgs/entrance/entrance_7_S.png"
+    },
+    "-1,-2 W": {
+        "img": "/imgs/entrance/entrance_7_W.png"
+    },
+    "-1,-3 N": {
+        "img": "/imgs/entrance/entrance_8_N.png"
+    },
+    "-1,-3 E": {
+        "img": "/imgs/entrance/entrance_8_E.png"
+    },
+    "-1,-3 S": {
+        "img": "/imgs/entrance/entrance_8_S.png"
+    },
+    "-1,-3 W": {
+        "img": "/imgs/entrance/entrance_8_W.png"
+    },
+    "-2,4 N": {
+        "img": "/imgs/entrance/entrance_9_N.png"
+    },
+    "-2,4 E": {
+        "img": "/imgs/entrance/entrance_9_E.png"
+    },
+    "-2,4 S": {
+        "img": "/imgs/entrance/entrance_9_S.png"
+    },
+    "-2,4 W": {
+        "img": "/imgs/entrance/entrance_9_W.png"
+    },
+    "-2,3 N": {
+        "img": "/imgs/entrance/entrance_10_N.png"
+    },
+    "-2,3 E": {
+        "img": "/imgs/entrance/entrance_10_E.png"
+    },
+    "-2,3 S": {
+        "img": "/imgs/entrance/entrance_10_S.png"
+    },
+    "-2,3 W": {
+        "img": "/imgs/entrance/entrance_10_W.png"
+    },
+    "-2,2 N": {
+        "img": "/imgs/entrance/entrance_11_N.png"
+    },
+    "-2,2 E": {
+        "img": "/imgs/entrance/entrance_11_E.png"
+    },
+    "-2,2 S": {
+        "img": "/imgs/entrance/entrance_11_S.png"
+    },
+    "-2,2 W": {
+        "img": "/imgs/entrance/entrance_11_W.png"
+    },
+    "-2,1 N": {
+        "img": "/imgs/entrance/entrance_12_N.png"
+    },
+    "-2,1 E": {
+        "img": "/imgs/entrance/entrance_12_E.png"
+    },
+    "-2,1 S": {
+        "img": "/imgs/entrance/entrance_12_S.png"
+    },
+    "-2,1 W": {
+        "img": "/imgs/entrance/entrance_12_W.png"
+    },
+    "-2,0 N": {
+        "img": "/imgs/entrance/entrance_13_N.png"
+    },
+    "-2,0 E": {
+        "img": "/imgs/entrance/entrance_13_E.png"
+    },
+    "-2,0 S": {
+        "img": "/imgs/entrance/entrance_13_S.png"
+    },
+    "-2,0 W": {
+        "img": "/imgs/entrance/entrance_13_W.png"
+    },
+    "-2,-1 N": {
+        "img": "/imgs/entrance/entrance_14_N.png"
+    },
+    "-2,-1 E": {
+        "img": "/imgs/entrance/entrance_14_E.png"
+    },
+    "-2,-1 S": {
+        "img": "/imgs/entrance/entrance_14_S.png"
+    },
+    "-2,-1 W": {
+        "img": "/imgs/entrance/entrance_14_W.png"
+    },
+    "-2,-2 N": {
+        "img": "/imgs/entrance/entrance_15_N.png"
+    },
+    "-2,-2 E": {
+        "img": "/imgs/entrance/entrance_15_E.png"
+    },
+    "-2,-2 S": {
+        "img": "/imgs/entrance/entrance_15_S.png"
+    },
+    "-2,-2 W": {
+        "img": "/imgs/entrance/entrance_15_W.png"
+    },
+    "-2,-3 N": {
+        "img": "/imgs/entrance/entrance_16_N.png"
+    },
+    "-2,-3 E": {
+        "img": "/imgs/entrance/entrance_16_E.png"
+    },
+    "-2,-3 S": {
+        "img": "/imgs/entrance/entrance_16_S.png"
+    },
+    "-2,-3 W": {
+        "img": "/imgs/entrance/entrance_16_W.png"
+    },
+    "-2,-4 N": {
+        "img": "/imgs/entrance/entrance_17_N.png"
+    },
+    "-2,-4 E": {
+        "img": "/imgs/entrance/entrance_17_E.png"
+    },
+    "-2,-4 S": {
+        "img": "/imgs/entrance/entrance_17_S.png"
+    },
+    "-2,-4 W": {
+        "img": "/imgs/entrance/entrance_17_W.png"
+    },
+    "-3,3 N": {
+        "img": "/imgs/entrance/entrance_18_N.png"
+    },
+    "-3,3 E": {
+        "img": "/imgs/entrance/entrance_18_E.png"
+    },
+    "-3,3 S": {
+        "img": "/imgs/entrance/entrance_18_S.png"
+    },
+    "-3,3 W": {
+        "img": "/imgs/entrance/entrance_18_W.png"
+    },
+    "-3,2 N": {
+        "img": "/imgs/entrance/entrance_19_N.png"
+    },
+    "-3,2 E": {
+        "img": "/imgs/entrance/entrance_19_E.png"
+    },
+    "-3,2 S": {
+        "img": "/imgs/entrance/entrance_19_S.png"
+    },
+    "-3,2 W": {
+        "img": "/imgs/entrance/entrance_19_W.png"
+    },
+    "-3,1 N": {
+        "img": "/imgs/entrance/entrance_20_N.png"
+    },
+    "-3,1 E": {
+        "img": "/imgs/entrance/entrance_20_E.png"
+    },
+    "-3,1 S": {
+        "img": "/imgs/entrance/entrance_20_S.png"
+    },
+    "-3,1 W": {
+        "img": "/imgs/entrance/entrance_20_W.png"
+    },
+    "-3,0 N": {
+        "img": "/imgs/entrance/entrance_21_N.png"
+    },
+    "-3,0 E": {
+        "img": "/imgs/entrance/entrance_21_E.png"
+    },
+    "-3,0 S": {
+        "img": "/imgs/entrance/entrance_21_S.png"
+    },
+    "-3,0 W": {
+        "img": "/imgs/entrance/entrance_21_W.png"
+    },
+    "-3,-1 N": {
+        "img": "/imgs/entrance/entrance_22_N.png"
+    },
+    "-3,-1 E": {
+        "img": "/imgs/entrance/entrance_22_E.png"
+    },
+    "-3,-1 S": {
+        "img": "/imgs/entrance/entrance_22_S.png"
+    },
+    "-3,-1 W": {
+        "img": "/imgs/entrance/entrance_22_W.png"
+    },
+    "-3,-2 N": {
+        "img": "/imgs/entrance/entrance_23_N.png"
+    },
+    "-3,-2 E": {
+        "img": "/imgs/entrance/entrance_23_E.png"
+    },
+    "-3,-2 S": {
+        "img": "/imgs/entrance/entrance_23_S.png"
+    },
+    "-3,-2 W": {
+        "img": "/imgs/entrance/entrance_23_W.png"
+    },
+    "-3,-3 N": {
+        "img": "/imgs/entrance/entrance_24_N.png"
+    },
+    "-3,-3 E": {
+        "img": "/imgs/entrance/entrance_24_E.png"
+    },
+    "-3,-3 S": {
+        "img": "/imgs/entrance/entrance_24_S.png"
+    },
+    "-3,-3 W": {
+        "img": "/imgs/entrance/entrance_24_W.png"
+    },
+    "-4,3 N": {
+        "img": "/imgs/entrance/entrance_25_N.png"
+    },
+    "-4,3 E": {
+        "img": "/imgs/entrance/entrance_25_E.png"
+    },
+    "-4,3 S": {
+        "img": "/imgs/entrance/entrance_25_S.png"
+    },
+    "-4,3 W": {
+        "img": "/imgs/entrance/entrance_25_W.png"
+    },
+    "-4,2 N": {
+        "img": "/imgs/entrance/entrance_26_N.png"
+    },
+    "-4,2 E": {
+        "img": "/imgs/entrance/entrance_26_E.png"
+    },
+    "-4,2 S": {
+        "img": "/imgs/entrance/entrance_26_S.png"
+    },
+    "-4,2 W": {
+        "img": "/imgs/entrance/entrance_26_W.png"
+    },
+    "-4,-2 N": {
+        "img": "/imgs/entrance/entrance_27_N.png"
+    },
+    "-4,-2 E": {
+        "img": "/imgs/entrance/entrance_27_E.png"
+    },
+    "-4,-2 S": {
+        "img": "/imgs/entrance/entrance_27_S.png"
+    },
+    "-4,-2 W": {
+        "img": "/imgs/entrance/entrance_27_W.png"
+    },
+    "-4,-3 N": {
+        "img": "/imgs/entrance/entrance_28_N.png"
+    },
+    "-4,-3 E": {
+        "img": "/imgs/entrance/entrance_28_E.png"
+    },
+    "-4,-3 S": {
+        "img": "/imgs/entrance/entrance_28_S.png"
+    },
+    "-4,-3 W": {
+        "img": "/imgs/entrance/entrance_28_W.png"
+    },
+    "-5,3 N": {
+        "img": "/imgs/entrance/entrance_29_N.png"
+    },
+    "-5,3 E": {
+        "img": "/imgs/entrance/entrance_29_E.png"
+    },
+    "-5,3 S": {
+        "img": "/imgs/entrance/entrance_29_S.png"
+    },
+    "-5,3 W": {
+        "img": "/imgs/entrance/entrance_29_W.png"
+    },
+    "-5,2 N": {
+        "img": "/imgs/entrance/entrance_30_N.png"
+    },
+    "-5,2 E": {
+        "img": "/imgs/entrance/entrance_30_E.png"
+    },
+    "-5,2 S": {
+        "img": "/imgs/entrance/entrance_30_S.png"
+    },
+    "-5,2 W": {
+        "img": "/imgs/entrance/entrance_30_W.png"
+    },
+    "-5,1 N": {
+        "img": "/imgs/entrance/entrance_31_N.png"
+    },
+    "-5,1 E": {
+        "img": "/imgs/entrance/entrance_31_E.png"
+    },
+    "-5,1 S": {
+        "img": "/imgs/entrance/entrance_31_S.png"
+    },
+    "-5,1 W": {
+        "img": "/imgs/entrance/entrance_31_W.png"
+    },
+    "-5,-1 N": {
+        "img": "/imgs/entrance/entrance_32_N.png"
+    },
+    "-5,-1 E": {
+        "img": "/imgs/entrance/entrance_32_E.png"
+    },
+    "-5,-1 S": {
+        "img": "/imgs/entrance/entrance_32_S.png"
+    },
+    "-5,-1 W": {
+        "img": "/imgs/entrance/entrance_32_W.png"
+    },
+    "-5,-2 N": {
+        "img": "/imgs/entrance/entrance_33_N.png"
+    },
+    "-5,-2 E": {
+        "img": "/imgs/entrance/entrance_33_E.png"
+    },
+    "-5,3-2 S": {
+        "img": "/imgs/entrance/entrance_33_S.png"
+    },
+    "-5,-2 W": {
+        "img": "/imgs/entrance/entrance_33_W.png"
+    },
+    "-5,-3 N": {
+        "img": "/imgs/entrance/entrance_34_N.png"
+    },
+    "-5,-3 E": {
+        "img": "/imgs/entrance/entrance_34_E.png"
+    },
+    "-5,-3 S": {
+        "img": "/imgs/entrance/entrance_34_S.png"
+    },
+    "-5,-3 W": {
+        "img": "/imgs/entrance/entrance_34_W.png"
+    },
+    "-6,3 N": {
+        "img": "/imgs/entrance/entrance_35_N.png"
+    },
+    "-6,3 E": {
+        "img": "/imgs/entrance/entrance_35_E.png"
+    },
+    "-6,3 S": {
+        "img": "/imgs/entrance/entrance_35_S.png"
+    },
+    "-6,3 W": {
+        "img": "/imgs/entrance/entrance_35_W.png"
+    },
+    "-6,2 N": {
+        "img": "/imgs/entrance/entrance_36_N.png"
+    },
+    "-6,2 E": {
+        "img": "/imgs/entrance/entrance_36_E.png"
+    },
+    "-6,2 S": {
+        "img": "/imgs/entrance/entrance_36_S.png"
+    },
+    "-6,2 W": {
+        "img": "/imgs/entrance/entrance_36_W.png"
+    },
+    "-6,1 N": {
+        "img": "/imgs/entrance/entrance_37_N.png"
+    },
+    "-6,1 E": {
+        "img": "/imgs/entrance/entrance_37_E.png"
+    },
+    "-6,1 S": {
+        "img": "/imgs/entrance/entrance_37_S.png"
+    },
+    "-6,1 W": {
+        "img": "/imgs/entrance/entrance_37_W.png"
+    },
+    "-6,0 N": {
+        "img": "/imgs/entrance/entrance_38_N.png"
+    },
+    "-6,0 E": {
+        "img": "/imgs/entrance/entrance_38_E.png"
+    },
+    "-6,0 S": {
+        "img": "/imgs/entrance/entrance_38_S.png"
+    },
+    "-6,0 W": {
+        "img": "/imgs/entrance/entrance_38_W.png"
+    },
+    "-6,-1 N": {
+        "img": "/imgs/entrance/entrance_39_N.png"
+    },
+    "-6,-1 E": {
+        "img": "/imgs/entrance/entrance_39_E.png"
+    },
+    "-6,-1 S": {
+        "img": "/imgs/entrance/entrance_39_S.png"
+    },
+    "-6,-1 W": {
+        "img": "/imgs/entrance/entrance_39_W.png"
+    },
+    "-6,-2 N": {
+        "img": "/imgs/entrance/entrance_40_N.png"
+    },
+    "-6,-2 E": {
+        "img": "/imgs/entrance/entrance_40_E.png"
+    },
+    "-6,-2 S": {
+        "img": "/imgs/entrance/entrance_40_S.png"
+    },
+    "-6,-2 W": {
+        "img": "/imgs/entrance/entrance_40_W.png"
+    },
+    "-6,-3 N": {
+        "img": "/imgs/entrance/entrance_41_N.png"
+    },
+    "-6,-3 E": {
+        "img": "/imgs/entrance/entrance_41_E.png"
+    },
+    "-6,-3 S": {
+        "img": "/imgs/entrance/entrance_41_S.png"
+    },
+    "-6,-3 W": {
+        "img": "/imgs/entrance/entrance_41_W.png"
+    },
+    "-7,3 N": {
+        "img": "/imgs/entrance/entrance_42_N.png"
+    },
+    "-7,3 E": {
+        "img": "/imgs/entrance/entrance_42_E.png"
+    },
+    "-7,3 S": {
+        "img": "/imgs/entrance/entrance_42_S.png"
+    },
+    "-7,3 W": {
+        "img": "/imgs/entrance/entrance_42_W.png"
+    },
+    "-7,2 N": {
+        "img": "/imgs/entrance/entrance_43_N.png"
+    },
+    "-7,2 E": {
+        "img": "/imgs/entrance/entrance_43_E.png"
+    },
+    "-7,2 S": {
+        "img": "/imgs/entrance/entrance_43_S.png"
+    },
+    "-7,2 W": {
+        "img": "/imgs/entrance/entrance_43_W.png"
+    },
+    "-7,1 N": {
+        "img": "/imgs/entrance/entrance_44_N.png"
+    },
+    "-7,1 E": {
+        "img": "/imgs/entrance/entrance_44_E.png"
+    },
+    "-7,1 S": {
+        "img": "/imgs/entrance/entrance_44_S.png"
+    },
+    "-7,1 W": {
+        "img": "/imgs/entrance/entrance_44_W.png"
+    },
+    "-7,0 N": {
+        "img": "/imgs/entrance/entrance_45_N.png"
+    },
+    "-7,0 E": {
+        "img": "/imgs/entrance/entrance_45_E.png"
+    },
+    "-7,0 S": {
+        "img": "/imgs/entrance/entrance_45_S.png"
+    },
+    "-7,0 W": {
+        "img": "/imgs/entrance/entrance_45_W.png"
+    },
+    "-7,-1 N": {
+        "img": "/imgs/entrance/entrance_46_N.png"
+    },
+    "-7,-1 E": {
+        "img": "/imgs/entrance/entrance_46_E.png"
+    },
+    "-7,-1 S": {
+        "img": "/imgs/entrance/entrance_46_S.png"
+    },
+    "-7,-1 W": {
+        "img": "/imgs/entrance/entrance_46_W.png"
+    },
+    "-7,-2 N": {
+        "img": "/imgs/entrance/entrance_47_N.png"
+    },
+    "-7,-2 E": {
+        "img": "/imgs/entrance/entrance_47_E.png"
+    },
+    "-7,-2 S": {
+        "img": "/imgs/entrance/entrance_47_S.png"
+    },
+    "-7,-2 W": {
+        "img": "/imgs/entrance/entrance_47_W.png"
+    },
+    "-7,-3 N": {
+        "img": "/imgs/entrance/entrance_48_N.png"
+    },
+    "-7,-3 E": {
+        "img": "/imgs/entrance/entrance_48_E.png"
+    },
+    "-7,-3 S": {
+        "img": "/imgs/entrance/entrance_48_S.png"
+    },
+    "-7,-3 W": {
+        "img": "/imgs/entrance/entrance_48_W.png"
+    },
+    "-2,5 N": {
+        "img": "/imgs/hallway/hallway_0_N.png"
+    },
+    "-2,5 E": {
+        "img": "/imgs/hallway/hallway_0_E.png"
+    },
+    "-2,5 S": {
+        "img": "/imgs/hallway/hallway_0_S.png"
+    },
+    "-2,5 W": {
+        "img": "/imgs/hallway/hallway_0_W.png"
+    },
+    "-2,6 N": {
+        "img": "/imgs/hallway/hallway_1_N.png"
+    },
+    "-2,6 E": {
+        "img": "/imgs/hallway/hallway_1_E.png"
+    },
+    "-2,6 S": {
+        "img": "/imgs/hallway/hallway_1_S.png"
+    },
+    "-2,6 W": {
+        "img": "/imgs/hallway/hallway_1_W.png"
+    },
+    "-2,7 N": {
+        "img": "/imgs/hallway/hallway_2_N.png"
+    },
+    "-2,7 E": {
+        "img": "/imgs/hallway/hallway_2_E.png"
+    },
+    "-2,7 S": {
+        "img": "/imgs/hallway/hallway_2_S.png"
+    },
+    "-2,7 W": {
+        "img": "/imgs/hallway/hallway_2_W.png"
+    },
+    "-2,8 N": {
+        "img": "/imgs/hallway/hallway_3_N.png"
+    },
+    "-2,8 E": {
+        "img": "/imgs/hallway/hallway_3_E.png"
+    },
+    "-2,8 S": {
+        "img": "/imgs/hallway/hallway_3_S.png"
+    },
+    "-2,8 W": {
+        "img": "/imgs/hallway/hallway_3_W.png"
+    },
+    "-2,9 N": {
+        "img": "/imgs/hallway/hallway_4_N.png"
+    },
+    "-2,9 E": {
+        "img": "/imgs/hallway/hallway_4_E.png"
+    },
+    "-2,9 S": {
+        "img": "/imgs/hallway/hallway_4_S.png"
+    },
+    "-2,9 W": {
+        "img": "/imgs/hallway/hallway_4_W.png"
+    },
+    "-2,10 N": {
+        "img": "/imgs/hallway/hallway_5_N.png"
+    },
+    "-2,10 E": {
+        "img": "/imgs/hallway/hallway_5_E.png"
+    },
+    "-2,10 S": {
+        "img": "/imgs/hallway/hallway_5_S.png"
+    },
+    "-2,10 W": {
+        "img": "/imgs/hallway/hallway_5_W.png"
+    },
+    "-3,10 N": {
+        "img": "/imgs/hallway/hallway_6_N.png"
+    },
+    "-3,10 E": {
+        "img": "/imgs/hallway/hallway_6_E.png"
+    },
+    "-3,10 S": {
+        "img": "/imgs/hallway/hallway_6_S.png"
+    },
+    "-3,10 W": {
+        "img": "/imgs/hallway/hallway_6_W.png"
+    },
+    "-4,10 N": {
+        "img": "/imgs/hallway/hallway_7_N.png"
+    },
+    "-4,10 E": {
+        "img": "/imgs/hallway/hallway_7_E.png"
+    },
+    "-4,10 S": {
+        "img": "/imgs/hallway/hallway_7_S.png"
+    },
+    "-4,10 W": {
+        "img": "/imgs/hallway/hallway_7_W.png"
+    },
+    "-5,10 N": {
+        "img": "/imgs/hallway/hallway_8_N.png"
+    },
+    "-5,10 E": {
+        "img": "/imgs/hallway/hallway_8_E.png"
+    },
+    "-5,10 S": {
+        "img": "/imgs/hallway/hallway_8_S.png"
+    },
+    "-5,10 W": {
+        "img": "/imgs/hallway/hallway_8_W.png"
+    },
+    "-6,10 N": {
+        "img": "/imgs/hallway/hallway_9_N.png"
+    },
+    "-6,10 E": {
+        "img": "/imgs/hallway/hallway_9_E.png"
+    },
+    "-6,10 S": {
+        "img": "/imgs/hallway/hallway_9_S.png"
+    },
+    "-6,10 W": {
+        "img": "/imgs/hallway/hallway_9_W.png"
+    },
+    "-7,10 N": {
+        "img": "/imgs/hallway/hallway_10_N.png"
+    },
+    "-7,10 E": {
+        "img": "/imgs/hallway/hallway_10_E.png"
+    },
+    "-7,10 S": {
+        "img": "/imgs/hallway/hallway_10_S.png"
+    },
+    "-7,10 W": {
+        "img": "/imgs/hallway/hallway_10_W.png"
+    },
+    "-8,10 N": {
+        "img": "/imgs/hallway/hallway_11_N.png"
+    },
+    "-8,10 E": {
+        "img": "/imgs/hallway/hallway_11_E.png"
+    },
+    "-8,10 S": {
+        "img": "/imgs/hallway/hallway_11_S.png"
+    },
+    "-8,10 W": {
+        "img": "/imgs/hallway/hallway_11_W.png"
+    },
+    "-9,10 N": {
+        "img": "/imgs/hallway/hallway_12_N.png"
+    },
+    "-9,10 E": {
+        "img": "/imgs/hallway/hallway_12_E.png"
+    },
+    "-9,10 S": {
+        "img": "/imgs/hallway/hallway_12_S.png"
+    },
+    "-9,10 W": {
+        "img": "/imgs/hallway/hallway_12_W.png"
+    },
+    "-10,10 N": {
+        "img": "/imgs/hallway/hallway_13_N.png"
+    },
+    "-10,10 E": {
+        "img": "/imgs/hallway/hallway_13_E.png"
+    },
+    "-10,10 S": {
+        "img": "/imgs/hallway/hallway_13_S.png"
+    },
+    "-10,10 W": {
+        "img": "/imgs/hallway/hallway_13_W.png"
+    },
+    "-10,9 N": {
+        "img": "/imgs/hallway/hallway_14_N.png"
+    },
+    "-10,9 E": {
+        "img": "/imgs/hallway/hallway_14_E.png"
+    },
+    "-10,9 S": {
+        "img": "/imgs/hallway/hallway_14_S.png"
+    },
+    "-10,9 W": {
+        "img": "/imgs/hallway/hallway_14_W.png"
+    },
+    "-10,8 N": {
+        "img": "/imgs/hallway/hallway_15_N.png"
+    },
+    "-10,8 E": {
+        "img": "/imgs/hallway/hallway_15_E.png"
+    },
+    "-10,8 S": {
+        "img": "/imgs/hallway/hallway_15_S.png"
+    },
+    "-10,8 W": {
+        "img": "/imgs/hallway/hallway_15_W.png"
+    },
+    "-10,7 N": {
+        "img": "/imgs/hallway/hallway_16_N.png"
+    },
+    "-10,7 E": {
+        "img": "/imgs/hallway/hallway_16_E.png"
+    },
+    "-10,7 S": {
+        "img": "/imgs/hallway/hallway_16_S.png"
+    },
+    "-10,7 W": {
+        "img": "/imgs/hallway/hallway_16_W.png"
+    },
+    "-10,6 N": {
+        "img": "/imgs/hallway/hallway_17_N.png"
+    },
+    "-10,6 E": {
+        "img": "/imgs/hallway/hallway_17_E.png"
+    },
+    "-10,6 S": {
+        "img": "/imgs/hallway/hallway_17_S.png"
+    },
+    "-10,6 W": {
+        "img": "/imgs/hallway/hallway_17_W.png"
+    },
+    "-11,6 N": {
+        "img": "/imgs/hallway/hallway_18_N.png"
+    },
+    "-11,6 E": {
+        "img": "/imgs/hallway/hallway_18_E.png"
+    },
+    "-11,6 S": {
+        "img": "/imgs/hallway/hallway_18_S.png"
+    },
+    "-11,6 W": {
+        "img": "/imgs/hallway/hallway_18_W.png"
+    },
+    "-12,6 N": {
+        "img": "/imgs/hallway/hallway_19_N.png"
+    },
+    "-12,6 E": {
+        "img": "/imgs/hallway/hallway_19_E.png"
+    },
+    "-12,6 S": {
+        "img": "/imgs/hallway/hallway_19_S.png"
+    },
+    "-12,6 W": {
+        "img": "/imgs/hallway/hallway_19_W.png"
+    },
+    "-13,6 N": {
+        "img": "/imgs/hallway/hallway_20_N.png"
+    },
+    "-13,6 E": {
+        "img": "/imgs/hallway/hallway_20_E.png"
+    },
+    "-13,6 S": {
+        "img": "/imgs/hallway/hallway_20_S.png"
+    },
+    "-13,6 W": {
+        "img": "/imgs/hallway/hallway_20_W.png"
+    },
+    "-14,6 N": {
+        "img": "/imgs/hallway/hallway_21_N.png"
+    },
+    "-14,6 E": {
+        "img": "/imgs/hallway/hallway_21_E.png"
+    },
+    "-14,6 S": {
+        "img": "/imgs/hallway/hallway_21_S.png"
+    },
+    "-14,6 W": {
+        "img": "/imgs/hallway/hallway_21_W.png"
+    },
+    "-15,6 N": {
+        "img": "/imgs/hallway/hallway_22_N.png"
+    },
+    "-15,6 E": {
+        "img": "/imgs/hallway/hallway_22_E.png"
+    },
+    "-15,6 S": {
+        "img": "/imgs/hallway/hallway_22_S.png"
+    },
+    "-15,6 W": {
+        "img": "/imgs/hallway/hallway_22_W.png"
+    },
+    "-16,6 N": {
+        "img": "/imgs/hallway/hallway_23_N.png"
+    },
+    "-16,6 E": {
+        "img": "/imgs/hallway/hallway_23_E.png"
+    },
+    "-16,6 S": {
+        "img": "/imgs/hallway/hallway_23_S.png"
+    },
+    "-16,6 W": {
+        "img": "/imgs/hallway/hallway_23_W.png"
+    },
+    "-17,6 N": {
+        "img": "/imgs/hallway/hallway_24_N.png"
+    },
+    "-17,6 E": {
+        "img": "/imgs/hallway/hallway_24_E.png"
+    },
+    "-17,6 S": {
+        "img": "/imgs/hallway/hallway_24_S.png"
+    },
+    "-17,6 W": {
+        "img": "/imgs/hallway/hallway_24_W.png"
+    },
+    "-18,6 N": {
+        "img": "/imgs/hallway/hallway_25_N.png"
+    },
+    "-18,6 E": {
+        "img": "/imgs/hallway/hallway_25_E.png"
+    },
+    "-18,6 S": {
+        "img": "/imgs/hallway/hallway_25_S.png"
+    },
+    "-18,6 W": {
+        "img": "/imgs/hallway/hallway_25_W.png"
+    },
+    "-19,6 N": {
+        "img": "/imgs/hallway/hallway_26_N.png"
+    },
+    "-19,6 E": {
+        "img": "/imgs/hallway/hallway_26_E.png"
+    },
+    "-19,6 S": {
+        "img": "/imgs/hallway/hallway_26_S.png"
+    },
+    "-19,6 W": {
+        "img": "/imgs/hallway/hallway_26_W.png"
+    },
+    "-20,6 N": {
+        "img": "/imgs/hallway/hallway_27_N.png"
+    },
+    "-20,6 E": {
+        "img": "/imgs/hallway/hallway_27_E.png"
+    },
+    "-20,6 S": {
+        "img": "/imgs/hallway/hallway_27_S.png"
+    },
+    "-20,6 W": {
+        "img": "/imgs/hallway/hallway_27_W.png"
+    },
+    "-21,6 N": {
+        "img": "/imgs/hallway/hallway_28_N.png"
+    },
+    "-21,6 E": {
+        "img": "/imgs/hallway/hallway_28_E.png"
+    },
+    "-21,6 S": {
+        "img": "/imgs/hallway/hallway_28_S.png"
+    },
+    "-21,6 W": {
+        "img": "/imgs/hallway/hallway_28_W.png"
+    },
+    "-22,6 N": {
+        "img": "/imgs/hallway/hallway_29_N.png"
+    },
+    "-22,6 E": {
+        "img": "/imgs/hallway/hallway_29_E.png"
+    },
+    "-22,6 S": {
+        "img": "/imgs/hallway/hallway_29_S.png"
+    },
+    "-22,6 W": {
+        "img": "/imgs/hallway/hallway_29_W.png"
+    },
+    "-23,6 N": {
+        "img": "/imgs/hallway/hallway_30_N.png"
+    },
+    "-23,6 E": {
+        "img": "/imgs/hallway/hallway_30_E.png"
+    },
+    "-23,6 S": {
+        "img": "/imgs/hallway/hallway_30_S.png"
+    },
+    "-23,6 W": {
+        "img": "/imgs/hallway/hallway_30_W.png"
+    },
+    "-24,6 N": {
+        "img": "/imgs/hallway/hallway_31_N.png"
+    },
+    "-24,6 E": {
+        "img": "/imgs/hallway/hallway_31_E.png"
+    },
+    "-24,6 S": {
+        "img": "/imgs/hallway/hallway_31_S.png"
+    },
+    "-24,6 W": {
+        "img": "/imgs/hallway/hallway_31_W.png"
+    },
+    "-25,6 N": {
+        "img": "/imgs/hallway/hallway_32_N.png"
+    },
+    "-25,6 E": {
+        "img": "/imgs/hallway/hallway_32_E.png"
+    },
+    "-25,6 S": {
+        "img": "/imgs/hallway/hallway_32_S.png"
+    },
+    "-25,6 W": {
+        "img": "/imgs/hallway/hallway_32_W.png"
+    },
+    "-26,6 N": {
+        "img": "/imgs/hallway/hallway_33_N.png"
+    },
+    "-26,6 E": {
+        "img": "/imgs/hallway/hallway_33_E.png"
+    },
+    "-26,6 S": {
+        "img": "/imgs/hallway/hallway_33_S.png"
+    },
+    "-26,6 W": {
+        "img": "/imgs/hallway/hallway_33_W.png"
+    },
+    "-26,7 N": {
+        "img": "/imgs/hallway/hallway_34_N.png"
+    },
+    "-26,7 E": {
+        "img": "/imgs/hallway/hallway_34_E.png"
+    },
+    "-26,7 S": {
+        "img": "/imgs/hallway/hallway_34_S.png"
+    },
+    "-26,7 W": {
+        "img": "/imgs/hallway/hallway_34_W.png"
+    },
+    "-26,8 N": {
+        "img": "/imgs/hallway/hallway_35_N.png"
+    },
+    "-26,8 E": {
+        "img": "/imgs/hallway/hallway_35_E.png"
+    },
+    "-26,8 S": {
+        "img": "/imgs/hallway/hallway_35_S.png"
+    },
+    "-26,8 W": {
+        "img": "/imgs/hallway/hallway_35_W.png"
+    },
+    "-26,9 N": {
+        "img": "/imgs/hallway/hallway_36_N.png"
+    },
+    "-26,9 E": {
+        "img": "/imgs/hallway/hallway_36_E.png"
+    },
+    "-26,9 S": {
+        "img": "/imgs/hallway/hallway_36_S.png"
+    },
+    "-26,9 W": {
+        "img": "/imgs/hallway/hallway_36_W.png"
+    },
+    "-26,10 N": {
+        "img": "/imgs/hallway/hallway_37_N.png"
+    },
+    "-26,10 E": {
+        "img": "/imgs/hallway/hallway_37_E.png"
+    },
+    "-26,10 S": {
+        "img": "/imgs/hallway/hallway_37_S.png"
+    },
+    "-26,10 W": {
+        "img": "/imgs/hallway/hallway_37_W.png"
+    },
+    "-26,11 N": {
+        "img": "/imgs/hallway/hallway_38_N.png"
+    },
+    "-26,11 E": {
+        "img": "/imgs/hallway/hallway_38_E.png"
+    },
+    "-26,11 S": {
+        "img": "/imgs/hallway/hallway_38_S.png"
+    },
+    "-26,11 W": {
+        "img": "/imgs/hallway/hallway_38_W.png"
+    },
+    "-26,12 N": {
+        "img": "/imgs/hallway/hallway_39_N.png"
+    },
+    "-26,12 E": {
+        "img": "/imgs/hallway/hallway_39_E.png"
+    },
+    "-26,12 S": {
+        "img": "/imgs/hallway/hallway_39_S.png"
+    },
+    "-26,12 W": {
+        "img": "/imgs/hallway/hallway_39_W.png"
+    },
+    "-26,13 N": {
+        "img": "/imgs/hallway/hallway_40_N.png"
+    },
+    "-26,13 E": {
+        "img": "/imgs/hallway/hallway_40_E.png"
+    },
+    "-26,13 S": {
+        "img": "/imgs/hallway/hallway_40_S.png"
+    },
+    "-26,13 W": {
+        "img": "/imgs/hallway/hallway_40_W.png"
+    },
+    "-26,14 N": {
+        "img": "/imgs/hallway/hallway_41_N.png"
+    },
+    "-26,14 E": {
+        "img": "/imgs/hallway/hallway_41_E.png"
+    },
+    "-26,14 S": {
+        "img": "/imgs/hallway/hallway_41_S.png"
+    },
+    "-26,14 W": {
+        "img": "/imgs/hallway/hallway_41_W.png"
+    },
+    "-18,5 N": {
+        "img": "/imgs/hallway/hallway_42_N.png"
+    },
+    "-18,5 E": {
+        "img": "/imgs/hallway/hallway_42_E.png"
+    },
+    "-18,5 S": {
+        "img": "/imgs/hallway/hallway_42_S.png"
+    },
+    "-18,5 W": {
+        "img": "/imgs/hallway/hallway_42_W.png"
+    },
+    "-18,4 N": {
+        "img": "/imgs/hallway/hallway_43_N.png"
+    },
+    "-18,4 E": {
+        "img": "/imgs/hallway/hallway_43_E.png"
+    },
+    "-18,4 S": {
+        "img": "/imgs/hallway/hallway_43_S.png"
+    },
+    "-18,4 W": {
+        "img": "/imgs/hallway/hallway_43_W.png"
+    },
+    "-18,3 N": {
+        "img": "/imgs/hallway/hallway_44_N.png"
+    },
+    "-18,3 E": {
+        "img": "/imgs/hallway/hallway_44_E.png"
+    },
+    "-18,3 S": {
+        "img": "/imgs/hallway/hallway_44_S.png"
+    },
+    "-18,3 W": {
+        "img": "/imgs/hallway/hallway_44_W.png"
+    },
+    "-18,2 N": {
+        "img": "/imgs/hallway/hallway_45_N.png"
+    },
+    "-18,2 E": {
+        "img": "/imgs/hallway/hallway_45_E.png"
+    },
+    "-18,2 S": {
+        "img": "/imgs/hallway/hallway_45_S.png"
+    },
+    "-18,2 W": {
+        "img": "/imgs/hallway/hallway_45_W.png"
+    },
+    "-18,1 N": {
+        "img": "/imgs/hallway/hallway_46_N.png"
+    },
+    "-18,1 E": {
+        "img": "/imgs/hallway/hallway_46_E.png"
+    },
+    "-18,1 S": {
+        "img": "/imgs/hallway/hallway_46_S.png"
+    },
+    "-18,1 W": {
+        "img": "/imgs/hallway/hallway_46_W.png"
+    },
+    "-18,0 N": {
+        "img": "/imgs/hallway/hallway_47_N.png"
+    },
+    "-18,0 E": {
+        "img": "/imgs/hallway/hallway_47_E.png"
+    },
+    "-18,0 S": {
+        "img": "/imgs/hallway/hallway_47_S.png"
+    },
+    "-18,0 W": {
+        "img": "/imgs/hallway/hallway_47_W.png"
+    },
+    "-18,-1 N": {
+        "img": "/imgs/hallway/hallway_48_N.png"
+    },
+    "-18,-1 E": {
+        "img": "/imgs/hallway/hallway_48_E.png"
+    },
+    "-18,-1 S": {
+        "img": "/imgs/hallway/hallway_48_S.png"
+    },
+    "-18,-1 W": {
+        "img": "/imgs/hallway/hallway_48_W.png"
+    },
+    "-18,-2 N": {
+        "img": "/imgs/hallway/hallway_49_N.png"
+    },
+    "-18,-2 E": {
+        "img": "/imgs/hallway/hallway_49_E.png"
+    },
+    "-18,-2 S": {
+        "img": "/imgs/hallway/hallway_49_S.png"
+    },
+    "-18,-2 W": {
+        "img": "/imgs/hallway/hallway_49_W.png"
+    },
+    "-18,-3 N": {
+        "img": "/imgs/hallway/hallway_50_N.png"
+    },
+    "-18,-3 E": {
+        "img": "/imgs/hallway/hallway_50_E.png"
+    },
+    "-18,-3 S": {
+        "img": "/imgs/hallway/hallway_50_S.png"
+    },
+    "-18,-3 W": {
+        "img": "/imgs/hallway/hallway_50_W.png"
+    },
+    "-18,-4 N": {
+        "img": "/imgs/hallway/hallway_51_N.png"
+    },
+    "-18,-4 E": {
+        "img": "/imgs/hallway/hallway_51_E.png"
+    },
+    "-18,-4 S": {
+        "img": "/imgs/hallway/hallway_51_S.png"
+    },
+    "-18,-4 W": {
+        "img": "/imgs/hallway/hallway_51_W.png"
+    },
+    "-18,-5 N": {
+        "img": "/imgs/hallway/hallway_52_N.png"
+    },
+    "-18,-5 E": {
+        "img": "/imgs/hallway/hallway_52_E.png"
+    },
+    "-18,-5 S": {
+        "img": "/imgs/hallway/hallway_52_S.png"
+    },
+    "-18,-5 W": {
+        "img": "/imgs/hallway/hallway_52_W.png"
+    },
+    "-18,-6 N": {
+        "img": "/imgs/hallway/hallway_53_N.png"
+    },
+    "-18,-6 E": {
+        "img": "/imgs/hallway/hallway_53_E.png"
+    },
+    "-18,-6 S": {
+        "img": "/imgs/hallway/hallway_53_S.png"
+    },
+    "-18,-6 W": {
+        "img": "/imgs/hallway/hallway_53_W.png"
+    },
+    "-17,-6 N": {
+        "img": "/imgs/hallway/hallway_54_N.png"
+    },
+    "-17,-6 E": {
+        "img": "/imgs/hallway/hallway_54_E.png"
+    },
+    "-17,-6 S": {
+        "img": "/imgs/hallway/hallway_54_S.png"
+    },
+    "-17,-6 W": {
+        "img": "/imgs/hallway/hallway_54_W.png"
+    },
+    "-16,-6 N": {
+        "img": "/imgs/hallway/hallway_55_N.png"
+    },
+    "-16,-6 E": {
+        "img": "/imgs/hallway/hallway_55_E.png"
+    },
+    "-16,-6 S": {
+        "img": "/imgs/hallway/hallway_55_S.png"
+    },
+    "-16,-6 W": {
+        "img": "/imgs/hallway/hallway_55_W.png"
+    },
+    "-15,-6 N": {
+        "img": "/imgs/hallway/hallway_56_N.png"
+    },
+    "-15,-6 E": {
+        "img": "/imgs/hallway/hallway_56_E.png"
+    },
+    "-15,-6 S": {
+        "img": "/imgs/hallway/hallway_56_S.png"
+    },
+    "-15,-6 W": {
+        "img": "/imgs/hallway/hallway_56_W.png"
+    },
+    "-14,-6 N": {
+        "img": "/imgs/hallway/hallway_57_N.png"
+    },
+    "-14,-6 E": {
+        "img": "/imgs/hallway/hallway_57_E.png"
+    },
+    "-14,-6 S": {
+        "img": "/imgs/hallway/hallway_57_S.png"
+    },
+    "-14,-6 W": {
+        "img": "/imgs/hallway/hallway_57_W.png"
+    },
+    "-14,-7 N": {
+        "img": "/imgs/hallway/hallway_58_N.png"
+    },
+    "-14,-7 E": {
+        "img": "/imgs/hallway/hallway_58_E.png"
+    },
+    "-14,-7 S": {
+        "img": "/imgs/hallway/hallway_58_S.png"
+    },
+    "-14,-7 W": {
+        "img": "/imgs/hallway/hallway_58_W.png"
+    },
+    "-14,-8 N": {
+        "img": "/imgs/hallway/hallway_59_N.png"
+    },
+    "-14,-8 E": {
+        "img": "/imgs/hallway/hallway_59_E.png"
+    },
+    "-14,-8 S": {
+        "img": "/imgs/hallway/hallway_59_S.png"
+    },
+    "-14,-8 W": {
+        "img": "/imgs/hallway/hallway_59_W.png"
+    },
+    "-14,-9 N": {
+        "img": "/imgs/hallway/hallway_60_N.png"
+    },
+    "-14,-9 E": {
+        "img": "/imgs/hallway/hallway_60_E.png"
+    },
+    "-14,-9 S": {
+        "img": "/imgs/hallway/hallway_60_S.png"
+    },
+    "-14,-9 W": {
+        "img": "/imgs/hallway/hallway_60_W.png"
+    },
+    "-13,-6 N": {
+        "img": "/imgs/hallway/hallway_61_N.png"
+    },
+    "-13,-6 E": {
+        "img": "/imgs/hallway/hallway_61_E.png"
+    },
+    "-13,-6 S": {
+        "img": "/imgs/hallway/hallway_61_S.png"
+    },
+    "-13,-6 W": {
+        "img": "/imgs/hallway/hallway_61_W.png"
+    },
+    "-12,-6 N": {
+        "img": "/imgs/hallway/hallway_62_N.png"
+    },
+    "-12,-6 E": {
+        "img": "/imgs/hallway/hallway_62_E.png"
+    },
+    "-12,-6 S": {
+        "img": "/imgs/hallway/hallway_62_S.png"
+    },
+    "-12,-6 W": {
+        "img": "/imgs/hallway/hallway_62_W.png"
+    },
+    "-11,-6 N": {
+        "img": "/imgs/hallway/hallway_63_N.png"
+    },
+    "-11,-6 E": {
+        "img": "/imgs/hallway/hallway_63_E.png"
+    },
+    "-11,-6 S": {
+        "img": "/imgs/hallway/hallway_63_S.png"
+    },
+    "-11,-6 W": {
+        "img": "/imgs/hallway/hallway_63_W.png"
+    },
+    "-10,-6 N": {
+        "img": "/imgs/hallway/hallway_64_N.png"
+    },
+    "-10,-6 E": {
+        "img": "/imgs/hallway/hallway_64_E.png"
+    },
+    "-10,-6 S": {
+        "img": "/imgs/hallway/hallway_64_S.png"
+    },
+    "-10,-6 W": {
+        "img": "/imgs/hallway/hallway_64_W.png"
+    },
+    "-10,-7 N": {
+        "img": "/imgs/hallway/hallway_65_N.png"
+    },
+    "-10,-7 E": {
+        "img": "/imgs/hallway/hallway_65_E.png"
+    },
+    "-10,-7 S": {
+        "img": "/imgs/hallway/hallway_65_S.png"
+    },
+    "-10,-7 W": {
+        "img": "/imgs/hallway/hallway_65_W.png"
+    },
+    "-10,-8 N": {
+        "img": "/imgs/hallway/hallway_66_N.png"
+    },
+    "-10,-8 E": {
+        "img": "/imgs/hallway/hallway_66_E.png"
+    },
+    "-10,-8 S": {
+        "img": "/imgs/hallway/hallway_66_S.png"
+    },
+    "-10,-8 W": {
+        "img": "/imgs/hallway/hallway_66_W.png"
+    },
+    "-10,-9 N": {
+        "img": "/imgs/hallway/hallway_67_N.png"
+    },
+    "-10,-9 E": {
+        "img": "/imgs/hallway/hallway_67_E.png"
+    },
+    "-10,-9 S": {
+        "img": "/imgs/hallway/hallway_67_S.png"
+    },
+    "-10,-9 W": {
+        "img": "/imgs/hallway/hallway_67_W.png"
+    },
+    "-18,-7 N": {
+        "img": "/imgs/hallway/hallway_68_N.png"
+    },
+    "-18,-7 E": {
+        "img": "/imgs/hallway/hallway_68_E.png"
+    },
+    "-18,-7 S": {
+        "img": "/imgs/hallway/hallway_68_S.png"
+    },
+    "-18,-7 W": {
+        "img": "/imgs/hallway/hallway_68_W.png"
+    },
+    "-18,-8 N": {
+        "img": "/imgs/hallway/hallway_69_N.png"
+    },
+    "-18,-8 E": {
+        "img": "/imgs/hallway/hallway_69_E.png"
+    },
+    "-18,-8 S": {
+        "img": "/imgs/hallway/hallway_69_S.png"
+    },
+    "-18,-8 W": {
+        "img": "/imgs/hallway/hallway_69_W.png"
+    },
+    "-18,-9 N": {
+        "img": "/imgs/hallway/hallway_70_N.png"
+    },
+    "-18,-9 E": {
+        "img": "/imgs/hallway/hallway_70_E.png"
+    },
+    "-18,-9 S": {
+        "img": "/imgs/hallway/hallway_70_S.png"
+    },
+    "-18,-9 W": {
+        "img": "/imgs/hallway/hallway_70_W.png"
+    },
+    "-18,-10 N": {
+        "img": "/imgs/hallway/hallway_71_N.png"
+    },
+    "-18,-10 E": {
+        "img": "/imgs/hallway/hallway_71_E.png"
+    },
+    "-18,-10 S": {
+        "img": "/imgs/hallway/hallway_71_S.png"
+    },
+    "-18,-10 W": {
+        "img": "/imgs/hallway/hallway_71_W.png"
+    },
+    "-17,-10 N": {
+        "img": "/imgs/hallway/hallway_72_N.png"
+    },
+    "-17,-10 E": {
+        "img": "/imgs/hallway/hallway_72_E.png"
+    },
+    "-17,-10 S": {
+        "img": "/imgs/hallway/hallway_72_S.png"
+    },
+    "-17,-10 W": {
+        "img": "/imgs/hallway/hallway_72_W.png"
+    },
+    "-16,-10 N": {
+        "img": "/imgs/hallway/hallway_73_N.png"
+    },
+    "-16,-10 E": {
+        "img": "/imgs/hallway/hallway_73_E.png"
+    },
+    "-16,-10 S": {
+        "img": "/imgs/hallway/hallway_73_S.png"
+    },
+    "-16,-10 W": {
+        "img": "/imgs/hallway/hallway_73_W.png"
+    },
+    "-15,-10 N": {
+        "img": "/imgs/hallway/hallway_74_N.png"
+    },
+    "-15,-10 E": {
+        "img": "/imgs/hallway/hallway_74_E.png"
+    },
+    "-15,-10 S": {
+        "img": "/imgs/hallway/hallway_74_S.png"
+    },
+    "-15,-10 W": {
+        "img": "/imgs/hallway/hallway_74_W.png"
+    },
+    "-14,-10 N": {
+        "img": "/imgs/hallway/hallway_75_N.png"
+    },
+    "-14,-10 E": {
+        "img": "/imgs/hallway/hallway_75_E.png"
+    },
+    "-14,-10 S": {
+        "img": "/imgs/hallway/hallway_75_S.png"
+    },
+    "-14,-10 W": {
+        "img": "/imgs/hallway/hallway_75_W.png"
+    },
+    "-13,-10 N": {
+        "img": "/imgs/hallway/hallway_76_N.png"
+    },
+    "-13,-10 E": {
+        "img": "/imgs/hallway/hallway_76_E.png"
+    },
+    "-13,-10 S": {
+        "img": "/imgs/hallway/hallway_76_S.png"
+    },
+    "-13,-10 W": {
+        "img": "/imgs/hallway/hallway_76_W.png"
+    },
+    "-12,-10 N": {
+        "img": "/imgs/hallway/hallway_77_N.png"
+    },
+    "-12,-10 E": {
+        "img": "/imgs/hallway/hallway_77_E.png"
+    },
+    "-12,-10 S": {
+        "img": "/imgs/hallway/hallway_77_S.png"
+    },
+    "-12,-10 W": {
+        "img": "/imgs/hallway/hallway_77_W.png"
+    },
+    "-11,-10 N": {
+        "img": "/imgs/hallway/hallway_78_N.png"
+    },
+    "-11,-10 E": {
+        "img": "/imgs/hallway/hallway_78_E.png"
+    },
+    "-11,-10 S": {
+        "img": "/imgs/hallway/hallway_78_S.png"
+    },
+    "-11,-10 W": {
+        "img": "/imgs/hallway/hallway_78_W.png"
+    },
+    "-10,-10 N": {
+        "img": "/imgs/hallway/hallway_79_N.png"
+    },
+    "-10,-10 E": {
+        "img": "/imgs/hallway/hallway_79_E.png"
+    },
+    "-10,-10 S": {
+        "img": "/imgs/hallway/hallway_79_S.png"
+    },
+    "-10,-10 W": {
+        "img": "/imgs/hallway/hallway_79_W.png"
+    },
+    "-9,-10 N": {
+        "img": "/imgs/hallway/hallway_80_N.png"
+    },
+    "-9,-10 E": {
+        "img": "/imgs/hallway/hallway_80_E.png"
+    },
+    "-9,-10 S": {
+        "img": "/imgs/hallway/hallway_80_S.png"
+    },
+    "-9,-10 W": {
+        "img": "/imgs/hallway/hallway_80_W.png"
+    },
+    "-8,-10 N": {
+        "img": "/imgs/hallway/hallway_81_N.png"
+    },
+    "-8,-10 E": {
+        "img": "/imgs/hallway/hallway_81_E.png"
+    },
+    "-8,-10 S": {
+        "img": "/imgs/hallway/hallway_81_S.png"
+    },
+    "-8,-10 W": {
+        "img": "/imgs/hallway/hallway_81_W.png"
+    },
+    "-7,-10 N": {
+        "img": "/imgs/hallway/hallway_82_N.png"
+    },
+    "-7,-10 E": {
+        "img": "/imgs/hallway/hallway_82_E.png"
+    },
+    "-7,-10 S": {
+        "img": "/imgs/hallway/hallway_82_S.png"
+    },
+    "-7,-10 W": {
+        "img": "/imgs/hallway/hallway_82_W.png"
+    },
+    "-6,-10 N": {
+        "img": "/imgs/hallway/hallway_83_N.png"
+    },
+    "-6,-10 E": {
+        "img": "/imgs/hallway/hallway_83_E.png"
+    },
+    "-6,-10 S": {
+        "img": "/imgs/hallway/hallway_83_S.png"
+    },
+    "-6,-10 W": {
+        "img": "/imgs/hallway/hallway_83_W.png"
+    },
+    "-5,-10 N": {
+        "img": "/imgs/hallway/hallway_84_N.png"
+    },
+    "-5,-10 E": {
+        "img": "/imgs/hallway/hallway_84_E.png"
+    },
+    "-5,-10 S": {
+        "img": "/imgs/hallway/hallway_84_S.png"
+    },
+    "-5,-10 W": {
+        "img": "/imgs/hallway/hallway_84_W.png"
+    },
+    "-4,-10 N": {
+        "img": "/imgs/hallway/hallway_85_N.png"
+    },
+    "-4,-10 E": {
+        "img": "/imgs/hallway/hallway_85_E.png"
+    },
+    "-4,-10 S": {
+        "img": "/imgs/hallway/hallway_85_S.png"
+    },
+    "-4,-10 W": {
+        "img": "/imgs/hallway/hallway_85_W.png"
+    },
+    "-3,-10 N": {
+        "img": "/imgs/hallway/hallway_86_N.png"
+    },
+    "-3,-10 E": {
+        "img": "/imgs/hallway/hallway_86_E.png"
+    },
+    "-3,-10 S": {
+        "img": "/imgs/hallway/hallway_86_S.png"
+    },
+    "-3,-10 W": {
+        "img": "/imgs/hallway/hallway_86_W.png"
+    },
+    "-2,-10 N": {
+        "img": "/imgs/hallway/hallway_87_N.png"
+    },
+    "-2,-10 E": {
+        "img": "/imgs/hallway/hallway_87_E.png"
+    },
+    "-2,-10 S": {
+        "img": "/imgs/hallway/hallway_87_S.png"
+    },
+    "-2,-10 W": {
+        "img": "/imgs/hallway/hallway_87_W.png"
+    },
+    "-2,-9 N": {
+        "img": "/imgs/hallway/hallway_88_N.png"
+    },
+    "-2,-9 E": {
+        "img": "/imgs/hallway/hallway_88_E.png"
+    },
+    "-2,-9 S": {
+        "img": "/imgs/hallway/hallway_88_S.png"
+    },
+    "-2,-9 W": {
+        "img": "/imgs/hallway/hallway_88_W.png"
+    },
+    "-2,-8 N": {
+        "img": "/imgs/hallway/hallway_89_N.png"
+    },
+    "-2,-8 E": {
+        "img": "/imgs/hallway/hallway_89_E.png"
+    },
+    "-2,-8 S": {
+        "img": "/imgs/hallway/hallway_89_S.png"
+    },
+    "-2,-8 W": {
+        "img": "/imgs/hallway/hallway_89_W.png"
+    },
+    "-2,-7 N": {
+        "img": "/imgs/hallway/hallway_90_N.png"
+    },
+    "-2,-7 E": {
+        "img": "/imgs/hallway/hallway_90_E.png"
+    },
+    "-2,-7 S": {
+        "img": "/imgs/hallway/hallway_90_S.png"
+    },
+    "-2,-7 W": {
+        "img": "/imgs/hallway/hallway_90_W.png"
+    },
+    "-2,-6 N": {
+        "img": "/imgs/hallway/hallway_91_N.png"
+    },
+    "-2,-6 E": {
+        "img": "/imgs/hallway/hallway_91_E.png"
+    },
+    "-2,-6 S": {
+        "img": "/imgs/hallway/hallway_91_S.png"
+    },
+    "-2,-6 W": {
+        "img": "/imgs/hallway/hallway_91_W.png"
+    },
+    "-2,-5 N": {
+        "img": "/imgs/hallway/hallway_92_N.png"
+    },
+    "-2,-5 E": {
+        "img": "/imgs/hallway/hallway_92_E.png"
+    },
+    "-2,-5 S": {
+        "img": "/imgs/hallway/hallway_92_S.png"
+    },
+    "-2,-5 W": {
+        "img": "/imgs/hallway/hallway_92_W.png"
+    },
+    "-27,10 N": {
+        "img": "/imgs/room-statue/room-statue_0_N.png"
+    },
+    "-27,10 E": {
+        "img": "/imgs/room-statue/room-statue_0_E.png"
+    },
+    "-27,10 S": {
+        "img": "/imgs/room-statue/room-statue_0_S.png"
+    },
+    "-27,10 W": {
+        "img": "/imgs/room-statue/room-statue_0_W.png"
+    },
+    "-28,10 N": {
+        "img": "/imgs/room-statue/room-statue_1_N.png"
+    },
+    "-28,10 E": {
+        "img": "/imgs/room-statue/room-statue_1_E.png"
+    },
+    "-28,10 S": {
+        "img": "/imgs/room-statue/room-statue_1_S.png"
+    },
+    "-28,10 W": {
+        "img": "/imgs/room-statue/room-statue_1_W.png"
+    },
+    "-29,11 N": {
+        "img": "/imgs/room-statue/room-statue_2_N.png"
+    },
+    "-29,11 E": {
+        "img": "/imgs/room-statue/room-statue_2_E.png"
+    },
+    "-29,11 S": {
+        "img": "/imgs/room-statue/room-statue_2_S.png"
+    },
+    "-29,11 W": {
+        "img": "/imgs/room-statue/room-statue_2_W.png"
+    },
+    "-29,10 N": {
+        "img": "/imgs/room-statue/room-statue_3_N.png"
+    },
+    "-29,10 E": {
+        "img": "/imgs/room-statue/room-statue_3_E.png"
+    },
+    "-29,10 S": {
+        "img": "/imgs/room-statue/room-statue_3_S.png"
+    },
+    "-29,10 W": {
+        "img": "/imgs/room-statue/room-statue_3_W.png"
+    },
+    "-29,9 N": {
+        "img": "/imgs/room-statue/room-statue_4_N.png"
+    },
+    "-29,9 E": {
+        "img": "/imgs/room-statue/room-statue_4_E.png"
+    },
+    "-29,9 S": {
+        "img": "/imgs/room-statue/room-statue_4_S.png"
+    },
+    "-29,9 W": {
+        "img": "/imgs/room-statue/room-statue_4_W.png"
+    },
+    "-29,8 N": {
+        "img": "/imgs/room-statue/room-statue_5_N.png"
+    },
+    "-29,8 E": {
+        "img": "/imgs/room-statue/room-statue_5_E.png"
+    },
+    "-29,8 S": {
+        "img": "/imgs/room-statue/room-statue_5_S.png"
+    },
+    "-29,8 W": {
+        "img": "/imgs/room-statue/room-statue_5_W.png"
+    },
+    "-29,7 N": {
+        "img": "/imgs/room-statue/room-statue_6_N.png"
+    },
+    "-29,7 E": {
+        "img": "/imgs/room-statue/room-statue_6_E.png"
+    },
+    "-29,7 S": {
+        "img": "/imgs/room-statue/room-statue_6_S.png"
+    },
+    "-29,7 W": {
+        "img": "/imgs/room-statue/room-statue_6_W.png"
+    },
+    "-29,6 N": {
+        "img": "/imgs/room-statue/room-statue_7_N.png"
+    },
+    "-29,6 E": {
+        "img": "/imgs/room-statue/room-statue_7_E.png"
+    },
+    "-29,6 S": {
+        "img": "/imgs/room-statue/room-statue_7_S.png"
+    },
+    "-29,6 W": {
+        "img": "/imgs/room-statue/room-statue_7_W.png"
+    },
+    "-29,5 N": {
+        "img": "/imgs/room-statue/room-statue_8_N.png"
+    },
+    "-29,5 E": {
+        "img": "/imgs/room-statue/room-statue_8_E.png"
+    },
+    "-29,5 S": {
+        "img": "/imgs/room-statue/room-statue_8_S.png"
+    },
+    "-29,5 W": {
+        "img": "/imgs/room-statue/room-statue_8_W.png"
+    },
+    "-30,11 N": {
+        "img": "/imgs/room-statue/room-statue_9_N.png"
+    },
+    "-30,11 E": {
+        "img": "/imgs/room-statue/room-statue_9_E.png"
+    },
+    "-30,11 S": {
+        "img": "/imgs/room-statue/room-statue_9_S.png"
+    },
+    "-30,11 W": {
+        "img": "/imgs/room-statue/room-statue_9_W.png"
+    },
+    "-30,10 N": {
+        "img": "/imgs/room-statue/room-statue_10_N.png"
+    },
+    "-30,10 E": {
+        "img": "/imgs/room-statue/room-statue_10_E.png"
+    },
+    "-30,10 S": {
+        "img": "/imgs/room-statue/room-statue_10_S.png"
+    },
+    "-30,10 W": {
+        "img": "/imgs/room-statue/room-statue_10_W.png"
+    },
+    "-30,8 N": {
+        "img": "/imgs/room-statue/room-statue_11_N.png"
+    },
+    "-30,8 E": {
+        "img": "/imgs/room-statue/room-statue_11_E.png"
+    },
+    "-30,8 S": {
+        "img": "/imgs/room-statue/room-statue_11_S.png"
+    },
+    "-30,8 W": {
+        "img": "/imgs/room-statue/room-statue_11_W.png"
+    },
+    "-30,5 N": {
+        "img": "/imgs/room-statue/room-statue_12_N.png"
+    },
+    "-30,5 E": {
+        "img": "/imgs/room-statue/room-statue_12_E.png"
+    },
+    "-30,5 S": {
+        "img": "/imgs/room-statue/room-statue_12_S.png"
+    },
+    "-30,5 W": {
+        "img": "/imgs/room-statue/room-statue_12_W.png"
+    },
+    "-31,11 N": {
+        "img": "/imgs/room-statue/room-statue_13_N.png"
+    },
+    "-31,11 E": {
+        "img": "/imgs/room-statue/room-statue_13_E.png"
+    },
+    "-31,11 S": {
+        "img": "/imgs/room-statue/room-statue_13_S.png"
+    },
+    "-31,11 W": {
+        "img": "/imgs/room-statue/room-statue_13_W.png"
+    },
+    "-31,10 N": {
+        "img": "/imgs/room-statue/room-statue_14_N.png"
+    },
+    "-31,10 E": {
+        "img": "/imgs/room-statue/room-statue_14_E.png"
+    },
+    "-31,10 S": {
+        "img": "/imgs/room-statue/room-statue_14_S.png"
+    },
+    "-31,10 W": {
+        "img": "/imgs/room-statue/room-statue_14_W.png"
+    },
+    "-31,9 N": {
+        "img": "/imgs/room-statue/room-statue_15_N.png"
+    },
+    "-31,9 E": {
+        "img": "/imgs/room-statue/room-statue_15_E.png"
+    },
+    "-31,9 S": {
+        "img": "/imgs/room-statue/room-statue_15_S.png"
+    },
+    "-31,9 W": {
+        "img": "/imgs/room-statue/room-statue_15_W.png"
+    },
+    "-31,8 N": {
+        "img": "/imgs/room-statue/room-statue_16_N.png"
+    },
+    "-31,8 E": {
+        "img": "/imgs/room-statue/room-statue_16_E.png"
+    },
+    "-31,8 S": {
+        "img": "/imgs/room-statue/room-statue_16_S.png"
+    },
+    "-31,8 W": {
+        "img": "/imgs/room-statue/room-statue_16_W.png"
+    },
+    "-31,5 N": {
+        "img": "/imgs/room-statue/room-statue_17_N.png"
+    },
+    "-31,5 E": {
+        "img": "/imgs/room-statue/room-statue_17_E.png"
+    },
+    "-31,5 S": {
+        "img": "/imgs/room-statue/room-statue_17_S.png"
+    },
+    "-31,5 W": {
+        "img": "/imgs/room-statue/room-statue_17_W.png"
+    },
+    "-32,11 N": {
+        "img": "/imgs/room-statue/room-statue_18_N.png"
+    },
+    "-32,11 E": {
+        "img": "/imgs/room-statue/room-statue_18_E.png"
+    },
+    "-32,11 S": {
+        "img": "/imgs/room-statue/room-statue_18_S.png"
+    },
+    "-32,11 W": {
+        "img": "/imgs/room-statue/room-statue_18_W.png"
+    },
+    "-32,10 N": {
+        "img": "/imgs/room-statue/room-statue_19_N.png"
+    },
+    "-32,10 E": {
+        "img": "/imgs/room-statue/room-statue_19_E.png"
+    },
+    "-32,10 S": {
+        "img": "/imgs/room-statue/room-statue_19_S.png"
+    },
+    "-32,10 W": {
+        "img": "/imgs/room-statue/room-statue_19_W.png"
+    },
+    "-32,9 N": {
+        "img": "/imgs/room-statue/room-statue_20_N.png"
+    },
+    "-32,9 E": {
+        "img": "/imgs/room-statue/room-statue_20_E.png"
+    },
+    "-32,9 S": {
+        "img": "/imgs/room-statue/room-statue_20_S.png"
+    },
+    "-32,9 W": {
+        "img": "/imgs/room-statue/room-statue_20_W.png"
+    },
+    "-32,5 N": {
+        "img": "/imgs/room-statue/room-statue_21_N.png"
+    },
+    "-32,5 E": {
+        "img": "/imgs/room-statue/room-statue_21_E.png"
+    },
+    "-32,5 S": {
+        "img": "/imgs/room-statue/room-statue_21_S.png"
+    },
+    "-32,5 W": {
+        "img": "/imgs/room-statue/room-statue_21_W.png"
+    },
+    "-33,11 N": {
+        "img": "/imgs/room-statue/room-statue_22_N.png"
+    },
+    "-33,11 E": {
+        "img": "/imgs/room-statue/room-statue_22_E.png"
+    },
+    "-33,11 S": {
+        "img": "/imgs/room-statue/room-statue_22_S.png"
+    },
+    "-33,11 W": {
+        "img": "/imgs/room-statue/room-statue_22_W.png"
+    },
+    "-33,10 N": {
+        "img": "/imgs/room-statue/room-statue_23_N.png"
+    },
+    "-33,10 E": {
+        "img": "/imgs/room-statue/room-statue_23_E.png"
+    },
+    "-33,10 S": {
+        "img": "/imgs/room-statue/room-statue_23_S.png"
+    },
+    "-33,10 W": {
+        "img": "/imgs/room-statue/room-statue_23_W.png"
+    },
+    "-33,9 N": {
+        "img": "/imgs/room-statue/room-statue_24_N.png"
+    },
+    "-33,9 E": {
+        "img": "/imgs/room-statue/room-statue_24_E.png"
+    },
+    "-33,9 S": {
+        "img": "/imgs/room-statue/room-statue_24_S.png"
+    },
+    "-33,9 W": {
+        "img": "/imgs/room-statue/room-statue_24_W.png"
+    },
+    "-33,8 N": {
+        "img": "/imgs/room-statue/room-statue_25_N.png"
+    },
+    "-33,8 E": {
+        "img": "/imgs/room-statue/room-statue_25_E.png"
+    },
+    "-33,8 S": {
+        "img": "/imgs/room-statue/room-statue_25_S.png"
+    },
+    "-33,8 W": {
+        "img": "/imgs/room-statue/room-statue_25_W.png"
+    },
+    "-33,5 N": {
+        "img": "/imgs/room-statue/room-statue_26_N.png"
+    },
+    "-33,5 E": {
+        "img": "/imgs/room-statue/room-statue_26_E.png"
+    },
+    "-33,5 S": {
+        "img": "/imgs/room-statue/room-statue_26_S.png"
+    },
+    "-33,5 W": {
+        "img": "/imgs/room-statue/room-statue_26_W.png"
+    },
+    "-34,11 N": {
+        "img": "/imgs/room-statue/room-statue_27_N.png"
+    },
+    "-34,11 E": {
+        "img": "/imgs/room-statue/room-statue_27_E.png"
+    },
+    "-34,11 S": {
+        "img": "/imgs/room-statue/room-statue_27_S.png"
+    },
+    "-34,11 W": {
+        "img": "/imgs/room-statue/room-statue_27_W.png"
+    },
+    "-34,8 N": {
+        "img": "/imgs/room-statue/room-statue_28_N.png"
+    },
+    "-34,8 E": {
+        "img": "/imgs/room-statue/room-statue_28_E.png"
+    },
+    "-34,8 S": {
+        "img": "/imgs/room-statue/room-statue_28_S.png"
+    },
+    "-34,8 W": {
+        "img": "/imgs/room-statue/room-statue_28_W.png"
+    },
+    "-34,5 N": {
+        "img": "/imgs/room-statue/room-statue_29_N.png"
+    },
+    "-34,5 E": {
+        "img": "/imgs/room-statue/room-statue_29_E.png"
+    },
+    "-34,5 S": {
+        "img": "/imgs/room-statue/room-statue_29_S.png"
+    },
+    "-34,5 W": {
+        "img": "/imgs/room-statue/room-statue_29_W.png"
+    },
+    "-35,11 N": {
+        "img": "/imgs/room-statue/room-statue_30_N.png"
+    },
+    "-35,11 E": {
+        "img": "/imgs/room-statue/room-statue_30_E.png"
+    },
+    "-35,11 S": {
+        "img": "/imgs/room-statue/room-statue_30_S.png"
+    },
+    "-35,11 W": {
+        "img": "/imgs/room-statue/room-statue_30_W.png"
+    },
+    "-35,10 N": {
+        "img": "/imgs/room-statue/room-statue_31_N.png"
+    },
+    "-35,10 E": {
+        "img": "/imgs/room-statue/room-statue_31_E.png"
+    },
+    "-35,10 S": {
+        "img": "/imgs/room-statue/room-statue_31_S.png"
+    },
+    "-35,10 W": {
+        "img": "/imgs/room-statue/room-statue_31_W.png"
+    },
+    "-35,9 N": {
+        "img": "/imgs/room-statue/room-statue_32_N.png"
+    },
+    "-35,9 E": {
+        "img": "/imgs/room-statue/room-statue_32_E.png"
+    },
+    "-35,9 S": {
+        "img": "/imgs/room-statue/room-statue_32_S.png"
+    },
+    "-35,9 W": {
+        "img": "/imgs/room-statue/room-statue_32_W.png"
+    },
+    "-35,8 N": {
+        "img": "/imgs/room-statue/room-statue_33_N.png"
+    },
+    "-35,8 E": {
+        "img": "/imgs/room-statue/room-statue_33_E.png"
+    },
+    "-35,8 S": {
+        "img": "/imgs/room-statue/room-statue_33_S.png"
+    },
+    "-35,8 W": {
+        "img": "/imgs/room-statue/room-statue_33_W.png"
+    },
+    "-35,7 N": {
+        "img": "/imgs/room-statue/room-statue_34_N.png"
+    },
+    "-35,7 E": {
+        "img": "/imgs/room-statue/room-statue_34_E.png"
+    },
+    "-35,7 S": {
+        "img": "/imgs/room-statue/room-statue_34_S.png"
+    },
+    "-35,7 W": {
+        "img": "/imgs/room-statue/room-statue_34_W.png"
+    },
+    "-35,6 N": {
+        "img": "/imgs/room-statue/room-statue_35_N.png"
+    },
+    "-35,6 E": {
+        "img": "/imgs/room-statue/room-statue_35_E.png"
+    },
+    "-35,6 S": {
+        "img": "/imgs/room-statue/room-statue_35_S.png"
+    },
+    "-35,6 W": {
+        "img": "/imgs/room-statue/room-statue_35_W.png"
+    },
+    "-35,5 N": {
+        "img": "/imgs/room-statue/room-statue_36_N.png"
+    },
+    "-35,5 E": {
+        "img": "/imgs/room-statue/room-statue_36_E.png"
+    },
+    "-35,5 S": {
+        "img": "/imgs/room-statue/room-statue_36_S.png"
+    },
+    "-35,5 W": {
+        "img": "/imgs/room-statue/room-statue_36_W.png"
+    },
+    "-19,-10 N": {
+        "img": "/imgs/room-tree/room-tree_0_N.png"
+    },
+    "-19,-10 E": {
+        "img": "/imgs/room-tree/room-tree_0_E.png"
+    },
+    "-19,-10 S": {
+        "img": "/imgs/room-tree/room-tree_0_S.png"
+    },
+    "-19,-10 W": {
+        "img": "/imgs/room-tree/room-tree_0_W.png"
+    },
+    "-20,-10 N": {
+        "img": "/imgs/room-tree/room-tree_1_N.png"
+    },
+    "-20,-10 E": {
+        "img": "/imgs/room-tree/room-tree_1_E.png"
+    },
+    "-20,-10 S": {
+        "img": "/imgs/room-tree/room-tree_1_S.png"
+    },
+    "-20,-10 W": {
+        "img": "/imgs/room-tree/room-tree_1_W.png"
+    },
+    "-21,-5 N": {
+        "img": "/imgs/room-tree/room-tree_2_N.png"
+    },
+    "-21,-5 E": {
+        "img": "/imgs/room-tree/room-tree_2_E.png"
+    },
+    "-21,-5 S": {
+        "img": "/imgs/room-tree/room-tree_2_S.png"
+    },
+    "-21,-5 W": {
+        "img": "/imgs/room-tree/room-tree_2_W.png"
+    },
+    "-21,-8 N": {
+        "img": "/imgs/room-tree/room-tree_3_N.png"
+    },
+    "-21,-8 E": {
+        "img": "/imgs/room-tree/room-tree_3_E.png"
+    },
+    "-21,-8 S": {
+        "img": "/imgs/room-tree/room-tree_3_S.png"
+    },
+    "-21,-8 W": {
+        "img": "/imgs/room-tree/room-tree_3_W.png"
+    },
+    "-21,-9 N": {
+        "img": "/imgs/room-tree/room-tree_4_N.png"
+    },
+    "-21,-9 E": {
+        "img": "/imgs/room-tree/room-tree_4_E.png"
+    },
+    "-21,-9 S": {
+        "img": "/imgs/room-tree/room-tree_4_S.png"
+    },
+    "-21,-9 W": {
+        "img": "/imgs/room-tree/room-tree_4_W.png"
+    },
+    "-21,-10 N": {
+        "img": "/imgs/room-tree/room-tree_5_N.png"
+    },
+    "-21,-10 E": {
+        "img": "/imgs/room-tree/room-tree_5_E.png"
+    },
+    "-21,-10 S": {
+        "img": "/imgs/room-tree/room-tree_5_S.png"
+    },
+    "-21,-10 W": {
+        "img": "/imgs/room-tree/room-tree_5_W.png"
+    },
+    "-21,-11 N": {
+        "img": "/imgs/room-tree/room-tree_6_N.png"
+    },
+    "-21,-11 E": {
+        "img": "/imgs/room-tree/room-tree_6_E.png"
+    },
+    "-21,-11 S": {
+        "img": "/imgs/room-tree/room-tree_6_S.png"
+    },
+    "-21,-11 W": {
+        "img": "/imgs/room-tree/room-tree_6_W.png"
+    },
+    "-22,-5 N": {
+        "img": "/imgs/room-tree/room-tree_7_N.png"
+    },
+    "-22,-5 E": {
+        "img": "/imgs/room-tree/room-tree_7_E.png"
+    },
+    "-22,-5 S": {
+        "img": "/imgs/room-tree/room-tree_7_S.png"
+    },
+    "-22,-5 W": {
+        "img": "/imgs/room-tree/room-tree_7_W.png"
+    },
+    "-22,-8 N": {
+        "img": "/imgs/room-tree/room-tree_8_N.png"
+    },
+    "-22,-8 E": {
+        "img": "/imgs/room-tree/room-tree_8_E.png"
+    },
+    "-22,-8 S": {
+        "img": "/imgs/room-tree/room-tree_8_S.png"
+    },
+    "-22,-8 W": {
+        "img": "/imgs/room-tree/room-tree_8_W.png"
+    },
+    "-22,-9 N": {
+        "img": "/imgs/room-tree/room-tree_9_N.png"
+    },
+    "-22,-9 E": {
+        "img": "/imgs/room-tree/room-tree_9_E.png"
+    },
+    "-22,-9 S": {
+        "img": "/imgs/room-tree/room-tree_9_S.png"
+    },
+    "-22,-9 W": {
+        "img": "/imgs/room-tree/room-tree_9_W.png"
+    },
+    "-22,-10 N": {
+        "img": "/imgs/room-tree/room-tree_10_N.png"
+    },
+    "-22,-10 E": {
+        "img": "/imgs/room-tree/room-tree_10_E.png"
+    },
+    "-22,-10 S": {
+        "img": "/imgs/room-tree/room-tree_10_S.png"
+    },
+    "-22,-10 W": {
+        "img": "/imgs/room-tree/room-tree_10_W.png"
+    },
+    "-22,-11 N": {
+        "img": "/imgs/room-tree/room-tree_11_N.png"
+    },
+    "-22,-11 E": {
+        "img": "/imgs/room-tree/room-tree_11_E.png"
+    },
+    "-22,-11 S": {
+        "img": "/imgs/room-tree/room-tree_11_S.png"
+    },
+    "-22,-11 W": {
+        "img": "/imgs/room-tree/room-tree_11_W.png"
+    },
+    "-23,-5 N": {
+        "img": "/imgs/room-tree/room-tree_12_N.png"
+    },
+    "-23,-5 E": {
+        "img": "/imgs/room-tree/room-tree_12_E.png"
+    },
+    "-23,-5 S": {
+        "img": "/imgs/room-tree/room-tree_12_S.png"
+    },
+    "-23,-5 W": {
+        "img": "/imgs/room-tree/room-tree_12_W.png"
+    },
+    "-23,-8 N": {
+        "img": "/imgs/room-tree/room-tree_13_N.png"
+    },
+    "-23,-8 E": {
+        "img": "/imgs/room-tree/room-tree_13_E.png"
+    },
+    "-23,-8 S": {
+        "img": "/imgs/room-tree/room-tree_13_S.png"
+    },
+    "-23,-8 W": {
+        "img": "/imgs/room-tree/room-tree_13_W.png"
+    },
+    "-23,-9 N": {
+        "img": "/imgs/room-tree/room-tree_14_N.png"
+    },
+    "-23,-9 E": {
+        "img": "/imgs/room-tree/room-tree_14_E.png"
+    },
+    "-23,-9 S": {
+        "img": "/imgs/room-tree/room-tree_14_S.png"
+    },
+    "-23,-9 W": {
+        "img": "/imgs/room-tree/room-tree_14_W.png"
+    },
+    "-23,-10 N": {
+        "img": "/imgs/room-tree/room-tree_15_N.png"
+    },
+    "-23,-10 E": {
+        "img": "/imgs/room-tree/room-tree_15_E.png"
+    },
+    "-23,-10 S": {
+        "img": "/imgs/room-tree/room-tree_15_S.png"
+    },
+    "-23,-10 W": {
+        "img": "/imgs/room-tree/room-tree_15_W.png"
+    },
+    "-23,-11 N": {
+        "img": "/imgs/room-tree/room-tree_16_N.png"
+    },
+    "-23,-11 E": {
+        "img": "/imgs/room-tree/room-tree_16_E.png"
+    },
+    "-23,-11 S": {
+        "img": "/imgs/room-tree/room-tree_16_S.png"
+    },
+    "-23,-11 W": {
+        "img": "/imgs/room-tree/room-tree_16_W.png"
+    },
+    "-24,-5 N": {
+        "img": "/imgs/room-tree/room-tree_17_N.png"
+    },
+    "-24,-5 E": {
+        "img": "/imgs/room-tree/room-tree_17_E.png"
+    },
+    "-24,-5 S": {
+        "img": "/imgs/room-tree/room-tree_17_S.png"
+    },
+    "-24,-5 W": {
+        "img": "/imgs/room-tree/room-tree_17_W.png"
+    },
+    "-24,-6 N": {
+        "img": "/imgs/room-tree/room-tree_18_N.png"
+    },
+    "-24,-6 E": {
+        "img": "/imgs/room-tree/room-tree_18_E.png"
+    },
+    "-24,-6 S": {
+        "img": "/imgs/room-tree/room-tree_18_S.png"
+    },
+    "-24,-6 W": {
+        "img": "/imgs/room-tree/room-tree_18_W.png"
+    },
+    "-24,-7 N": {
+        "img": "/imgs/room-tree/room-tree_19_N.png"
+    },
+    "-24,-7 E": {
+        "img": "/imgs/room-tree/room-tree_19_E.png"
+    },
+    "-24,-7 S": {
+        "img": "/imgs/room-tree/room-tree_19_S.png"
+    },
+    "-24,-7 W": {
+        "img": "/imgs/room-tree/room-tree_19_W.png"
+    },
+    "-24,-8 N": {
+        "img": "/imgs/room-tree/room-tree_20_N.png"
+    },
+    "-24,-8 E": {
+        "img": "/imgs/room-tree/room-tree_20_E.png"
+    },
+    "-24,-8 S": {
+        "img": "/imgs/room-tree/room-tree_20_S.png"
+    },
+    "-24,-8 W": {
+        "img": "/imgs/room-tree/room-tree_20_W.png"
+    },
+    "-24,-9 N": {
+        "img": "/imgs/room-tree/room-tree_21_N.png"
+    },
+    "-24,-9 E": {
+        "img": "/imgs/room-tree/room-tree_21_E.png"
+    },
+    "-24,-9 S": {
+        "img": "/imgs/room-tree/room-tree_21_S.png"
+    },
+    "-24,-9 W": {
+        "img": "/imgs/room-tree/room-tree_21_W.png"
+    },
+    "-24,-10 N": {
+        "img": "/imgs/room-tree/room-tree_22_N.png"
+    },
+    "-24,-10 E": {
+        "img": "/imgs/room-tree/room-tree_22_E.png"
+    },
+    "-24,-10 S": {
+        "img": "/imgs/room-tree/room-tree_22_S.png"
+    },
+    "-24,-10 W": {
+        "img": "/imgs/room-tree/room-tree_22_W.png"
+    },
+    "-24,-11 N": {
+        "img": "/imgs/room-tree/room-tree_23_N.png"
+    },
+    "-24,-11 E": {
+        "img": "/imgs/room-tree/room-tree_23_E.png"
+    },
+    "-24,-11 S": {
+        "img": "/imgs/room-tree/room-tree_23_S.png"
+    },
+    "-24,-11 W": {
+        "img": "/imgs/room-tree/room-tree_23_W.png"
+    },
+    "-25,-5 N": {
+        "img": "/imgs/room-tree/room-tree_24_N.png"
+    },
+    "-25,-5 E": {
+        "img": "/imgs/room-tree/room-tree_24_E.png"
+    },
+    "-25,-5 S": {
+        "img": "/imgs/room-tree/room-tree_24_S.png"
+    },
+    "-25,-5 W": {
+        "img": "/imgs/room-tree/room-tree_24_W.png"
+    },
+    "-25,-6 N": {
+        "img": "/imgs/room-tree/room-tree_25_N.png"
+    },
+    "-25,-6 E": {
+        "img": "/imgs/room-tree/room-tree_25_E.png"
+    },
+    "-25,-6 S": {
+        "img": "/imgs/room-tree/room-tree_25_S.png"
+    },
+    "-25,-6 W": {
+        "img": "/imgs/room-tree/room-tree_25_W.png"
+    },
+    "-25,-7 N": {
+        "img": "/imgs/room-tree/room-tree_26_N.png"
+    },
+    "-25,-7 E": {
+        "img": "/imgs/room-tree/room-tree_26_E.png"
+    },
+    "-25,-7 S": {
+        "img": "/imgs/room-tree/room-tree_26_S.png"
+    },
+    "-25,-7 W": {
+        "img": "/imgs/room-tree/room-tree_26_W.png"
+    },
+    "-25,-8 N": {
+        "img": "/imgs/room-tree/room-tree_27_N.png"
+    },
+    "-25,-8 E": {
+        "img": "/imgs/room-tree/room-tree_27_E.png"
+    },
+    "-25,-8 S": {
+        "img": "/imgs/room-tree/room-tree_27_S.png"
+    },
+    "-25,-8 W": {
+        "img": "/imgs/room-tree/room-tree_27_W.png"
+    },
+    "-25,-9 N": {
+        "img": "/imgs/room-tree/room-tree_28_N.png"
+    },
+    "-25,-9 E": {
+        "img": "/imgs/room-tree/room-tree_28_E.png"
+    },
+    "-25,-9 S": {
+        "img": "/imgs/room-tree/room-tree_28_S.png"
+    },
+    "-25,-9 W": {
+        "img": "/imgs/room-tree/room-tree_28_W.png"
+    },
+    "-25,-10 N": {
+        "img": "/imgs/room-tree/room-tree_29_N.png"
+    },
+    "-25,-10 E": {
+        "img": "/imgs/room-tree/room-tree_29_E.png"
+    },
+    "-25,-10 S": {
+        "img": "/imgs/room-tree/room-tree_29_S.png"
+    },
+    "-25,-10 W": {
+        "img": "/imgs/room-tree/room-tree_29_W.png"
+    },
+    "-25,-11 N": {
+        "img": "/imgs/room-tree/room-tree_30_N.png"
+    },
+    "-25,-11 E": {
+        "img": "/imgs/room-tree/room-tree_30_E.png"
+    },
+    "-25,-11 S": {
+        "img": "/imgs/room-tree/room-tree_30_S.png"
+    },
+    "-25,-11 W": {
+        "img": "/imgs/room-tree/room-tree_30_W.png"
+    },
+    "-26,-5 N": {
+        "img": "/imgs/room-tree/room-tree_31_N.png"
+    },
+    "-26,-5 E": {
+        "img": "/imgs/room-tree/room-tree_31_E.png"
+    },
+    "-26,-5 S": {
+        "img": "/imgs/room-tree/room-tree_31_S.png"
+    },
+    "-26,-5 W": {
+        "img": "/imgs/room-tree/room-tree_31_W.png"
+    },
+    "-26,-6 N": {
+        "img": "/imgs/room-tree/room-tree_32_N.png"
+    },
+    "-26,-6 E": {
+        "img": "/imgs/room-tree/room-tree_32_E.png"
+    },
+    "-26,-6 S": {
+        "img": "/imgs/room-tree/room-tree_32_S.png"
+    },
+    "-26,-6 W": {
+        "img": "/imgs/room-tree/room-tree_32_W.png"
+    },
+    "-26,-11 N": {
+        "img": "/imgs/room-tree/room-tree_33_N.png"
+    },
+    "-26,-11 E": {
+        "img": "/imgs/room-tree/room-tree_33_E.png"
+    },
+    "-26,-11 S": {
+        "img": "/imgs/room-tree/room-tree_33_S.png"
+    },
+    "-26,-11 W": {
+        "img": "/imgs/room-tree/room-tree_33_W.png"
+    },
+    "-27,-5 N": {
+        "img": "/imgs/room-tree/room-tree_34_N.png"
+    },
+    "-27,-5 E": {
+        "img": "/imgs/room-tree/room-tree_34_E.png"
+    },
+    "-27,-5 S": {
+        "img": "/imgs/room-tree/room-tree_34_S.png"
+    },
+    "-27,-5 W": {
+        "img": "/imgs/room-tree/room-tree_34_W.png"
+    },
+    "-27,-6 N": {
+        "img": "/imgs/room-tree/room-tree_35_N.png"
+    },
+    "-27,-6 E": {
+        "img": "/imgs/room-tree/room-tree_35_E.png"
+    },
+    "-27,-6 S": {
+        "img": "/imgs/room-tree/room-tree_35_S.png"
+    },
+    "-27,-6 W": {
+        "img": "/imgs/room-tree/room-tree_35_W.png"
+    },
+    "-27,-7 N": {
+        "img": "/imgs/room-tree/room-tree_36_N.png"
+    },
+    "-27,-7 E": {
+        "img": "/imgs/room-tree/room-tree_36_E.png"
+    },
+    "-27,-7 S": {
+        "img": "/imgs/room-tree/room-tree_36_S.png"
+    },
+    "-27,-7 W": {
+        "img": "/imgs/room-tree/room-tree_36_W.png"
+    },
+    "-27,-8 N": {
+        "img": "/imgs/room-tree/room-tree_37_N.png"
+    },
+    "-27,-8 E": {
+        "img": "/imgs/room-tree/room-tree_37_E.png"
+    },
+    "-27,-8 S": {
+        "img": "/imgs/room-tree/room-tree_37_S.png"
+    },
+    "-27,-8 W": {
+        "img": "/imgs/room-tree/room-tree_37_W.png"
+    },
+    "-27,-9 N": {
+        "img": "/imgs/room-tree/room-tree_38_N.png"
+    },
+    "-27,-9 E": {
+        "img": "/imgs/room-tree/room-tree_38_E.png"
+    },
+    "-27,-9 S": {
+        "img": "/imgs/room-tree/room-tree_38_S.png"
+    },
+    "-27,-9 W": {
+        "img": "/imgs/room-tree/room-tree_38_W.png"
+    },
+    "-27,-10 N": {
+        "img": "/imgs/room-tree/room-tree_39_N.png"
+    },
+    "-27,-10 E": {
+        "img": "/imgs/room-tree/room-tree_39_E.png"
+    },
+    "-27,-10 S": {
+        "img": "/imgs/room-tree/room-tree_39_S.png"
+    },
+    "-27,-10 W": {
+        "img": "/imgs/room-tree/room-tree_39_W.png"
+    },
+    "-9,3 N": {
+        "img": "/imgs/room-storage/room-storage_0_N.png"
+    },
+    "-9,3 E": {
+        "img": "/imgs/room-storage/room-storage_0_E.png"
+    },
+    "-9,3 S": {
+        "img": "/imgs/room-storage/room-storage_0_S.png"
+    },
+    "-9,3 W": {
+        "img": "/imgs/room-storage/room-storage_0_W.png"
+    },
+    "-10,3 N": {
+        "img": "/imgs/room-storage/room-storage_1_N.png"
+    },
+    "-10,3 E": {
+        "img": "/imgs/room-storage/room-storage_1_E.png"
+    },
+    "-10,3 S": {
+        "img": "/imgs/room-storage/room-storage_1_S.png"
+    },
+    "-10,3 W": {
+        "img": "/imgs/room-storage/room-storage_1_W.png"
+    },
+    "-10,2 N": {
+        "img": "/imgs/room-storage/room-storage_2_N.png"
+    },
+    "-10,2 E": {
+        "img": "/imgs/room-storage/room-storage_2_E.png"
+    },
+    "-10,2 S": {
+        "img": "/imgs/room-storage/room-storage_2_S.png"
+    },
+    "-10,2 W": {
+        "img": "/imgs/room-storage/room-storage_2_W.png"
+    },
+    "-10,1 N": {
+        "img": "/imgs/room-storage/room-storage_3_N.png"
+    },
+    "-10,1 E": {
+        "img": "/imgs/room-storage/room-storage_3_E.png"
+    },
+    "-10,1 S": {
+        "img": "/imgs/room-storage/room-storage_3_S.png"
+    },
+    "-10,1 W": {
+        "img": "/imgs/room-storage/room-storage_3_W.png"
+    },
+    "-10,0 N": {
+        "img": "/imgs/room-storage/room-storage_4_N.png"
+    },
+    "-10,0 E": {
+        "img": "/imgs/room-storage/room-storage_4_E.png"
+    },
+    "-10,0 S": {
+        "img": "/imgs/room-storage/room-storage_4_S.png"
+    },
+    "-10,0 W": {
+        "img": "/imgs/room-storage/room-storage_4_W.png"
+    },
+    "-10,-1 N": {
+        "img": "/imgs/room-storage/room-storage_5_N.png"
+    },
+    "-10,-1 E": {
+        "img": "/imgs/room-storage/room-storage_5_E.png"
+    },
+    "-10,-1 S": {
+        "img": "/imgs/room-storage/room-storage_5_S.png"
+    },
+    "-10,-1 W": {
+        "img": "/imgs/room-storage/room-storage_5_W.png"
+    },
+    "-10,-2 N": {
+        "img": "/imgs/room-storage/room-storage_6_N.png"
+    },
+    "-10,-2 E": {
+        "img": "/imgs/room-storage/room-storage_6_E.png"
+    },
+    "-10,-2 S": {
+        "img": "/imgs/room-storage/room-storage_6_S.png"
+    },
+    "-10,-2 W": {
+        "img": "/imgs/room-storage/room-storage_6_W.png"
+    },
+    "-10,-3 N": {
+        "img": "/imgs/room-storage/room-storage_7_N.png"
+    },
+    "-10,-3 E": {
+        "img": "/imgs/room-storage/room-storage_7_E.png"
+    },
+    "-10,-3 S": {
+        "img": "/imgs/room-storage/room-storage_7_S.png"
+    },
+    "-10,-3 W": {
+        "img": "/imgs/room-storage/room-storage_7_W.png"
+    },
+    "-11,3 N": {
+        "img": "/imgs/room-storage/room-storage_8_N.png"
+    },
+    "-11,3 E": {
+        "img": "/imgs/room-storage/room-storage_8_E.png"
+    },
+    "-11,3 S": {
+        "img": "/imgs/room-storage/room-storage_8_S.png"
+    },
+    "-11,3 W": {
+        "img": "/imgs/room-storage/room-storage_8_W.png"
+    },
+    "-11,-3 N": {
+        "img": "/imgs/room-storage/room-storage_9_N.png"
+    },
+    "-11,-3 E": {
+        "img": "/imgs/room-storage/room-storage_9_E.png"
+    },
+    "-11,-3 S": {
+        "img": "/imgs/room-storage/room-storage_9_S.png"
+    },
+    "-11,-3 W": {
+        "img": "/imgs/room-storage/room-storage_9_W.png"
+    },
+    "-12,3 N": {
+        "img": "/imgs/room-storage/room-storage_10_N.png"
+    },
+    "-12,3 E": {
+        "img": "/imgs/room-storage/room-storage_10_E.png"
+    },
+    "-12,3 S": {
+        "img": "/imgs/room-storage/room-storage_10_S.png"
+    },
+    "-12,3 W": {
+        "img": "/imgs/room-storage/room-storage_10_W.png"
+    },
+    "-12,2 N": {
+        "img": "/imgs/room-storage/room-storage_11_N.png"
+    },
+    "-12,2 E": {
+        "img": "/imgs/room-storage/room-storage_11_E.png"
+    },
+    "-12,2 S": {
+        "img": "/imgs/room-storage/room-storage_11_S.png"
+    },
+    "-12,2 W": {
+        "img": "/imgs/room-storage/room-storage_11_W.png"
+    },
+    "-12,1 N": {
+        "img": "/imgs/room-storage/room-storage_12_N.png"
+    },
+    "-12,1 E": {
+        "img": "/imgs/room-storage/room-storage_12_E.png"
+    },
+    "-12,1 S": {
+        "img": "/imgs/room-storage/room-storage_12_S.png"
+    },
+    "-12,1 W": {
+        "img": "/imgs/room-storage/room-storage_12_W.png"
+    },
+    "-12,0 N": {
+        "img": "/imgs/room-storage/room-storage_13_N.png"
+    },
+    "-12,0 E": {
+        "img": "/imgs/room-storage/room-storage_13_E.png"
+    },
+    "-12,0 S": {
+        "img": "/imgs/room-storage/room-storage_13_S.png"
+    },
+    "-12,0 W": {
+        "img": "/imgs/room-storage/room-storage_13_W.png"
+    },
+    "-12,-1 N": {
+        "img": "/imgs/room-storage/room-storage_14_N.png"
+    },
+    "-12,-1 E": {
+        "img": "/imgs/room-storage/room-storage_14_E.png"
+    },
+    "-12,-1 S": {
+        "img": "/imgs/room-storage/room-storage_14_S.png"
+    },
+    "-12,-1 W": {
+        "img": "/imgs/room-storage/room-storage_14_W.png"
+    },
+    "-12,-2 N": {
+        "img": "/imgs/room-storage/room-storage_15_N.png"
+    },
+    "-12,-2 E": {
+        "img": "/imgs/room-storage/room-storage_15_E.png"
+    },
+    "-12,-2 S": {
+        "img": "/imgs/room-storage/room-storage_15_S.png"
+    },
+    "-12,-2 W": {
+        "img": "/imgs/room-storage/room-storage_15_W.png"
+    },
+    "-12,-3 N": {
+        "img": "/imgs/room-storage/room-storage_16_N.png"
+    },
+    "-12,-3 E": {
+        "img": "/imgs/room-storage/room-storage_16_E.png"
+    },
+    "-12,-3 S": {
+        "img": "/imgs/room-storage/room-storage_16_S.png"
+    },
+    "-12,-3 W": {
+        "img": "/imgs/room-storage/room-storage_16_W.png"
+    },
+    "-13,-2 N": {
+        "img": "/imgs/room-storage/room-storage_17_N.png"
+    },
+    "-13,-2 E": {
+        "img": "/imgs/room-storage/room-storage_17_E.png"
+    },
+    "-13,-2 S": {
+        "img": "/imgs/room-storage/room-storage_17_S.png"
+    },
+    "-13,-2 W": {
+        "img": "/imgs/room-storage/room-storage_17_W.png"
+    },
+    "-13,-3 N": {
+        "img": "/imgs/room-storage/room-storage_18_N.png"
+    },
+    "-13,-3 E": {
+        "img": "/imgs/room-storage/room-storage_18_E.png"
+    },
+    "-13,-3 S": {
+        "img": "/imgs/room-storage/room-storage_18_S.png"
+    },
+    "-13,-3 W": {
+        "img": "/imgs/room-storage/room-storage_18_W.png"
+    },
+    "-14,3 N": {
+        "img": "/imgs/room-storage/room-storage_19_N.png"
+    },
+    "-14,3 E": {
+        "img": "/imgs/room-storage/room-storage_19_E.png"
+    },
+    "-14,3 S": {
+        "img": "/imgs/room-storage/room-storage_19_S.png"
+    },
+    "-14,3 W": {
+        "img": "/imgs/room-storage/room-storage_19_W.png"
+    },
+    "-14,2 N": {
+        "img": "/imgs/room-storage/room-storage_20_N.png"
+    },
+    "-14,2 E": {
+        "img": "/imgs/room-storage/room-storage_20_E.png"
+    },
+    "-14,2 S": {
+        "img": "/imgs/room-storage/room-storage_20_S.png"
+    },
+    "-14,2 W": {
+        "img": "/imgs/room-storage/room-storage_20_W.png"
+    },
+    "-14,1 N": {
+        "img": "/imgs/room-storage/room-storage_21_N.png"
+    },
+    "-14,1 E": {
+        "img": "/imgs/room-storage/room-storage_21_E.png"
+    },
+    "-14,1 S": {
+        "img": "/imgs/room-storage/room-storage_21_S.png"
+    },
+    "-14,1 W": {
+        "img": "/imgs/room-storage/room-storage_21_W.png"
+    },
+    "-14,0 N": {
+        "img": "/imgs/room-storage/room-storage_22_N.png"
+    },
+    "-14,0 E": {
+        "img": "/imgs/room-storage/room-storage_22_E.png"
+    },
+    "-14,0 S": {
+        "img": "/imgs/room-storage/room-storage_22_S.png"
+    },
+    "-14,0 W": {
+        "img": "/imgs/room-storage/room-storage_22_W.png"
+    },
+    "-14,-1 N": {
+        "img": "/imgs/room-storage/room-storage_23_N.png"
+    },
+    "-14,-1 E": {
+        "img": "/imgs/room-storage/room-storage_23_E.png"
+    },
+    "-14,-1 S": {
+        "img": "/imgs/room-storage/room-storage_23_S.png"
+    },
+    "-14,-1 W": {
+        "img": "/imgs/room-storage/room-storage_23_W.png"
+    },
+    "-14,-2 N": {
+        "img": "/imgs/room-storage/room-storage_24_N.png"
+    },
+    "-14,-2 E": {
+        "img": "/imgs/room-storage/room-storage_24_E.png"
+    },
+    "-14,-2 S": {
+        "img": "/imgs/room-storage/room-storage_24_S.png"
+    },
+    "-14,-2 W": {
+        "img": "/imgs/room-storage/room-storage_24_W.png"
+    },
+    "-14,-3 N": {
+        "img": "/imgs/room-storage/room-storage_25_N.png"
+    },
+    "-14,-3 E": {
+        "img": "/imgs/room-storage/room-storage_25_E.png"
+    },
+    "-14,-3 S": {
+        "img": "/imgs/room-storage/room-storage_25_S.png"
+    },
+    "-14,-3 W": {
+        "img": "/imgs/room-storage/room-storage_25_W.png"
+    },
+    "-15,-2 N": {
+        "img": "/imgs/room-storage/room-storage_26_N.png"
+    },
+    "-15,-2 E": {
+        "img": "/imgs/room-storage/room-storage_26_E.png"
+    },
+    "-15,-2 S": {
+        "img": "/imgs/room-storage/room-storage_26_S.png"
+    },
+    "-15,-2 W": {
+        "img": "/imgs/room-storage/room-storage_26_W.png"
+    },
+    "-15,-3 N": {
+        "img": "/imgs/room-storage/room-storage_27_N.png"
+    },
+    "-15,-3 E": {
+        "img": "/imgs/room-storage/room-storage_27_E.png"
+    },
+    "-15,-3 S": {
+        "img": "/imgs/room-storage/room-storage_27_S.png"
+    },
+    "-15,-3 W": {
+        "img": "/imgs/room-storage/room-storage_27_W.png"
+    },
+    "-16,-2 N": {
+        "img": "/imgs/room-storage/room-storage_28_N.png"
+    },
+    "-16,-2 E": {
+        "img": "/imgs/room-storage/room-storage_28_E.png"
+    },
+    "-16,-2 S": {
+        "img": "/imgs/room-storage/room-storage_28_S.png"
+    },
+    "-16,-2 W": {
+        "img": "/imgs/room-storage/room-storage_28_W.png"
+    },
+    "-17,-2 N": {
+        "img": "/imgs/room-storage/room-storage_29_N.png"
+    },
+    "-17,-2 E": {
+        "img": "/imgs/room-storage/room-storage_29_E.png"
+    },
+    "-17,-2 S": {
+        "img": "/imgs/room-storage/room-storage_29_S.png"
+    },
+    "-17,-2 W": {
+        "img": "/imgs/room-storage/room-storage_29_W.png"
+    },
+    "-13,10 N": {
+        "img": "/imgs/room-jail/room-jail_0_N.png"
+    },
+    "-13,10 E": {
+        "img": "/imgs/room-jail/room-jail_0_E.png"
+    },
+    "-13,10 S": {
+        "img": "/imgs/room-jail/room-jail_0_S.png"
+    },
+    "-13,10 W": {
+        "img": "/imgs/room-jail/room-jail_0_W.png"
+    },
+    "-13,9 N": {
+        "img": "/imgs/room-jail/room-jail_1_N.png"
+    },
+    "-13,9 E": {
+        "img": "/imgs/room-jail/room-jail_1_E.png"
+    },
+    "-13,9 S": {
+        "img": "/imgs/room-jail/room-jail_1_S.png"
+    },
+    "-13,9 W": {
+        "img": "/imgs/room-jail/room-jail_1_W.png"
+    },
+    "-14,15 N": {
+        "img": "/imgs/room-jail/room-jail_2_N.png"
+    },
+    "-14,15 E": {
+        "img": "/imgs/room-jail/room-jail_2_E.png"
+    },
+    "-14,15 S": {
+        "img": "/imgs/room-jail/room-jail_2_S.png"
+    },
+    "-14,15 W": {
+        "img": "/imgs/room-jail/room-jail_2_W.png"
+    },
+    "-14,14 N": {
+        "img": "/imgs/room-jail/room-jail_3_N.png"
+    },
+    "-14,14 E": {
+        "img": "/imgs/room-jail/room-jail_3_E.png"
+    },
+    "-14,14 S": {
+        "img": "/imgs/room-jail/room-jail_3_S.png"
+    },
+    "-14,14 W": {
+        "img": "/imgs/room-jail/room-jail_3_W.png"
+    },
+    "-14,13 N": {
+        "img": "/imgs/room-jail/room-jail_4_N.png"
+    },
+    "-14,13 E": {
+        "img": "/imgs/room-jail/room-jail_4_E.png"
+    },
+    "-14,13 S": {
+        "img": "/imgs/room-jail/room-jail_4_S.png"
+    },
+    "-14,13 W": {
+        "img": "/imgs/room-jail/room-jail_4_W.png"
+    },
+    "-14,12 N": {
+        "img": "/imgs/room-jail/room-jail_5_N.png"
+    },
+    "-14,12 E": {
+        "img": "/imgs/room-jail/room-jail_5_E.png"
+    },
+    "-14,12 S": {
+        "img": "/imgs/room-jail/room-jail_5_S.png"
+    },
+    "-14,12 W": {
+        "img": "/imgs/room-jail/room-jail_5_W.png"
+    },
+    "-14,11 N": {
+        "img": "/imgs/room-jail/room-jail_6_N.png"
+    },
+    "-14,11 E": {
+        "img": "/imgs/room-jail/room-jail_6_E.png"
+    },
+    "-14,11 S": {
+        "img": "/imgs/room-jail/room-jail_6_S.png"
+    },
+    "-14,11 W": {
+        "img": "/imgs/room-jail/room-jail_6_W.png"
+    },
+    "-14,10 N": {
+        "img": "/imgs/room-jail/room-jail_7_N.png"
+    },
+    "-14,10 E": {
+        "img": "/imgs/room-jail/room-jail_7_E.png"
+    },
+    "-14,10 S": {
+        "img": "/imgs/room-jail/room-jail_7_S.png"
+    },
+    "-14,10 W": {
+        "img": "/imgs/room-jail/room-jail_7_W.png"
+    },
+    "-14,9 N": {
+        "img": "/imgs/room-jail/room-jail_8_N.png"
+    },
+    "-14,9 E": {
+        "img": "/imgs/room-jail/room-jail_8_E.png"
+    },
+    "-14,9 S": {
+        "img": "/imgs/room-jail/room-jail_8_S.png"
+    },
+    "-14,9 W": {
+        "img": "/imgs/room-jail/room-jail_8_W.png"
+    },
+    "-14,8 N": {
+        "img": "/imgs/room-jail/room-jail_9_N.png"
+    },
+    "-14,8 E": {
+        "img": "/imgs/room-jail/room-jail_9_E.png"
+    },
+    "-14,8 S": {
+        "img": "/imgs/room-jail/room-jail_9_S.png"
+    },
+    "-14,8 W": {
+        "img": "/imgs/room-jail/room-jail_9_W.png"
+    },
+    "-14,7 N": {
+        "img": "/imgs/room-jail/room-jail_10_N.png"
+    },
+    "-14,7 E": {
+        "img": "/imgs/room-jail/room-jail_10_E.png"
+    },
+    "-14,7 S": {
+        "img": "/imgs/room-jail/room-jail_10_S.png"
+    },
+    "-14,7 W": {
+        "img": "/imgs/room-jail/room-jail_10_W.png"
+    },
+    "-15,10 N": {
+        "img": "/imgs/room-jail/room-jail_11_N.png"
+    },
+    "-15,10 E": {
+        "img": "/imgs/room-jail/room-jail_11_E.png"
+    },
+    "-15,10 S": {
+        "img": "/imgs/room-jail/room-jail_11_S.png"
+    },
+    "-15,10 W": {
+        "img": "/imgs/room-jail/room-jail_11_W.png"
+    },
+    "-15,9 N": {
+        "img": "/imgs/room-jail/room-jail_12_N.png"
+    },
+    "-15,9 E": {
+        "img": "/imgs/room-jail/room-jail_12_E.png"
+    },
+    "-15,9 S": {
+        "img": "/imgs/room-jail/room-jail_12_S.png"
+    },
+    "-15,9 W": {
+        "img": "/imgs/room-jail/room-jail_12_W.png"
+    },
+    "-16,15 N": {
+        "img": "/imgs/room-jail/room-jail_13_N.png"
+    },
+    "-16,15 E": {
+        "img": "/imgs/room-jail/room-jail_13_E.png"
+    },
+    "-16,15 S": {
+        "img": "/imgs/room-jail/room-jail_13_S.png"
+    },
+    "-16,15 W": {
+        "img": "/imgs/room-jail/room-jail_13_W.png"
+    },
+    "-16,14 N": {
+        "img": "/imgs/room-jail/room-jail_14_N.png"
+    },
+    "-16,14 E": {
+        "img": "/imgs/room-jail/room-jail_14_E.png"
+    },
+    "-16,14 S": {
+        "img": "/imgs/room-jail/room-jail_14_S.png"
+    },
+    "-16,14 W": {
+        "img": "/imgs/room-jail/room-jail_14_W.png"
+    },
+    "-16,13 N": {
+        "img": "/imgs/room-jail/room-jail_15_N.png"
+    },
+    "-16,13 E": {
+        "img": "/imgs/room-jail/room-jail_15_E.png"
+    },
+    "-16,13 S": {
+        "img": "/imgs/room-jail/room-jail_15_S.png"
+    },
+    "-16,13 W": {
+        "img": "/imgs/room-jail/room-jail_15_W.png"
+    },
+    "-16,12 N": {
+        "img": "/imgs/room-jail/room-jail_16_N.png"
+    },
+    "-16,12 E": {
+        "img": "/imgs/room-jail/room-jail_16_E.png"
+    },
+    "-16,12 S": {
+        "img": "/imgs/room-jail/room-jail_16_S.png"
+    },
+    "-16,12 W": {
+        "img": "/imgs/room-jail/room-jail_16_W.png"
+    },
+    "-16,11 N": {
+        "img": "/imgs/room-jail/room-jail_17_N.png"
+    },
+    "-16,11 E": {
+        "img": "/imgs/room-jail/room-jail_17_E.png"
+    },
+    "-16,11 S": {
+        "img": "/imgs/room-jail/room-jail_17_S.png"
+    },
+    "-16,11 W": {
+        "img": "/imgs/room-jail/room-jail_17_W.png"
+    },
+    "-16,10 N": {
+        "img": "/imgs/room-jail/room-jail_18_N.png"
+    },
+    "-16,10 E": {
+        "img": "/imgs/room-jail/room-jail_18_E.png"
+    },
+    "-16,10 S": {
+        "img": "/imgs/room-jail/room-jail_18_S.png"
+    },
+    "-16,10 W": {
+        "img": "/imgs/room-jail/room-jail_18_W.png"
+    },
+    "-16,9 N": {
+        "img": "/imgs/room-jail/room-jail_19_N.png"
+    },
+    "-16,9 E": {
+        "img": "/imgs/room-jail/room-jail_19_E.png"
+    },
+    "-16,9 S": {
+        "img": "/imgs/room-jail/room-jail_19_S.png"
+    },
+    "-16,9 W": {
+        "img": "/imgs/room-jail/room-jail_19_W.png"
+    },
+    "-17,15 N": {
+        "img": "/imgs/room-jail/room-jail_20_N.png"
+    },
+    "-17,15 E": {
+        "img": "/imgs/room-jail/room-jail_20_E.png"
+    },
+    "-17,15 S": {
+        "img": "/imgs/room-jail/room-jail_20_S.png"
+    },
+    "-17,15 W": {
+        "img": "/imgs/room-jail/room-jail_20_W.png"
+    },
+    "-17,14 N": {
+        "img": "/imgs/room-jail/room-jail_21_N.png"
+    },
+    "-17,14 E": {
+        "img": "/imgs/room-jail/room-jail_21_E.png"
+    },
+    "-17,14 S": {
+        "img": "/imgs/room-jail/room-jail_21_S.png"
+    },
+    "-17,14 W": {
+        "img": "/imgs/room-jail/room-jail_21_W.png"
+    },
+    "-17,12 N": {
+        "img": "/imgs/room-jail/room-jail_22_N.png"
+    },
+    "-17,12 E": {
+        "img": "/imgs/room-jail/room-jail_22_E.png"
+    },
+    "-17,12 S": {
+        "img": "/imgs/room-jail/room-jail_22_S.png"
+    },
+    "-17,12 W": {
+        "img": "/imgs/room-jail/room-jail_22_W.png"
+    },
+    "-17,10 N": {
+        "img": "/imgs/room-jail/room-jail_23_N.png"
+    },
+    "-17,10 E": {
+        "img": "/imgs/room-jail/room-jail_23_E.png"
+    },
+    "-17,10 S": {
+        "img": "/imgs/room-jail/room-jail_23_S.png"
+    },
+    "-17,10 W": {
+        "img": "/imgs/room-jail/room-jail_23_W.png"
+    },
+    "-17,9 N": {
+        "img": "/imgs/room-jail/room-jail_24_N.png"
+    },
+    "-17,9 E": {
+        "img": "/imgs/room-jail/room-jail_24_E.png"
+    },
+    "-17,9 S": {
+        "img": "/imgs/room-jail/room-jail_24_S.png"
+    },
+    "-17,9 W": {
+        "img": "/imgs/room-jail/room-jail_24_W.png"
+    },
+    "-18,14 N": {
+        "img": "/imgs/room-jail/room-jail_25_N.png"
+    },
+    "-18,14 E": {
+        "img": "/imgs/room-jail/room-jail_25_E.png"
+    },
+    "-18,14 S": {
+        "img": "/imgs/room-jail/room-jail_25_S.png"
+    },
+    "-18,14 W": {
+        "img": "/imgs/room-jail/room-jail_25_W.png"
+    },
+    "-18,13 N": {
+        "img": "/imgs/room-jail/room-jail_26_N.png"
+    },
+    "-18,13 E": {
+        "img": "/imgs/room-jail/room-jail_26_E.png"
+    },
+    "-18,13 S": {
+        "img": "/imgs/room-jail/room-jail_26_S.png"
+    },
+    "-18,13 W": {
+        "img": "/imgs/room-jail/room-jail_26_W.png"
+    },
+    "-18,12 N": {
+        "img": "/imgs/room-jail/room-jail_27_N.png"
+    },
+    "-18,12 E": {
+        "img": "/imgs/room-jail/room-jail_27_E.png"
+    },
+    "-18,12 S": {
+        "img": "/imgs/room-jail/room-jail_27_S.png"
+    },
+    "-18,12 W": {
+        "img": "/imgs/room-jail/room-jail_27_W.png"
+    },
+    "-19,15 N": {
+        "img": "/imgs/room-jail/room-jail_28_N.png"
+    },
+    "-19,15 E": {
+        "img": "/imgs/room-jail/room-jail_28_E.png"
+    },
+    "-19,15 S": {
+        "img": "/imgs/room-jail/room-jail_28_S.png"
+    },
+    "-19,15 W": {
+        "img": "/imgs/room-jail/room-jail_28_W.png"
+    },
+    "-19,14 N": {
+        "img": "/imgs/room-jail/room-jail_29_N.png"
+    },
+    "-19,14 E": {
+        "img": "/imgs/room-jail/room-jail_29_E.png"
+    },
+    "-19,14 S": {
+        "img": "/imgs/room-jail/room-jail_29_S.png"
+    },
+    "-19,14 W": {
+        "img": "/imgs/room-jail/room-jail_29_W.png"
+    },
+    "-19,13 N": {
+        "img": "/imgs/room-jail/room-jail_30_N.png"
+    },
+    "-19,13 E": {
+        "img": "/imgs/room-jail/room-jail_30_E.png"
+    },
+    "-19,13 S": {
+        "img": "/imgs/room-jail/room-jail_30_S.png"
+    },
+    "-19,13 W": {
+        "img": "/imgs/room-jail/room-jail_30_W.png"
+    },
+    "-1,15 N": {
+        "img": "/imgs/room-smith/room-smith_0_N.png"
+    },
+    "-1,15 E": {
+        "img": "/imgs/room-smith/room-smith_0_E.png"
+    },
+    "-1,15 S": {
+        "img": "/imgs/room-smith/room-smith_0_S.png"
+    },
+    "-1,15 W": {
+        "img": "/imgs/room-smith/room-smith_0_W.png"
+    },
+    "-1,14 N": {
+        "img": "/imgs/room-smith/room-smith_1_N.png"
+    },
+    "-1,14 E": {
+        "img": "/imgs/room-smith/room-smith_1_E.png"
+    },
+    "-1,14 S": {
+        "img": "/imgs/room-smith/room-smith_1_S.png"
+    },
+    "-1,14 W": {
+        "img": "/imgs/room-smith/room-smith_1_W.png"
+    },
+    "-1,13 N": {
+        "img": "/imgs/room-smith/room-smith_2_N.png"
+    },
+    "-1,13 E": {
+        "img": "/imgs/room-smith/room-smith_2_E.png"
+    },
+    "-1,13 S": {
+        "img": "/imgs/room-smith/room-smith_2_S.png"
+    },
+    "-1,13 W": {
+        "img": "/imgs/room-smith/room-smith_2_W.png"
+    },
+    "-2,15 N": {
+        "img": "/imgs/room-smith/room-smith_3_N.png"
+    },
+    "-2,15 E": {
+        "img": "/imgs/room-smith/room-smith_3_E.png"
+    },
+    "-2,15 S": {
+        "img": "/imgs/room-smith/room-smith_3_S.png"
+    },
+    "-2,15 W": {
+        "img": "/imgs/room-smith/room-smith_3_W.png"
+    },
+    "-2,14 N": {
+        "img": "/imgs/room-smith/room-smith_4_N.png"
+    },
+    "-2,14 E": {
+        "img": "/imgs/room-smith/room-smith_4_E.png"
+    },
+    "-2,14 S": {
+        "img": "/imgs/room-smith/room-smith_4_S.png"
+    },
+    "-2,14 W": {
+        "img": "/imgs/room-smith/room-smith_4_W.png"
+    },
+    "-2,13 N": {
+        "img": "/imgs/room-smith/room-smith_5_N.png"
+    },
+    "-2,13 E": {
+        "img": "/imgs/room-smith/room-smith_5_E.png"
+    },
+    "-2,13 S": {
+        "img": "/imgs/room-smith/room-smith_5_S.png"
+    },
+    "-2,13 W": {
+        "img": "/imgs/room-smith/room-smith_5_W.png"
+    },
+    "-2,12 N": {
+        "img": "/imgs/room-smith/room-smith_6_N.png"
+    },
+    "-2,12 E": {
+        "img": "/imgs/room-smith/room-smith_6_E.png"
+    },
+    "-2,12 S": {
+        "img": "/imgs/room-smith/room-smith_6_S.png"
+    },
+    "-2,12 W": {
+        "img": "/imgs/room-smith/room-smith_6_W.png"
+    },
+    "-2,11 N": {
+        "img": "/imgs/room-smith/room-smith_7_N.png"
+    },
+    "-2,11 E": {
+        "img": "/imgs/room-smith/room-smith_7_E.png"
+    },
+    "-2,11 S": {
+        "img": "/imgs/room-smith/room-smith_7_S.png"
+    },
+    "-2,11 W": {
+        "img": "/imgs/room-smith/room-smith_7_W.png"
+    },
+    "-3,15 N": {
+        "img": "/imgs/room-smith/room-smith_8_N.png"
+    },
+    "-3,15 E": {
+        "img": "/imgs/room-smith/room-smith_8_E.png"
+    },
+    "-3,15 S": {
+        "img": "/imgs/room-smith/room-smith_8_S.png"
+    },
+    "-3,15 W": {
+        "img": "/imgs/room-smith/room-smith_8_W.png"
+    },
+    "-3,14 N": {
+        "img": "/imgs/room-smith/room-smith_9_N.png"
+    },
+    "-3,14 E": {
+        "img": "/imgs/room-smith/room-smith_9_E.png"
+    },
+    "-3,14 S": {
+        "img": "/imgs/room-smith/room-smith_9_S.png"
+    },
+    "-3,14 W": {
+        "img": "/imgs/room-smith/room-smith_9_W.png"
+    },
+    "-4,15 N": {
+        "img": "/imgs/room-smith/room-smith_10_N.png"
+    },
+    "-4,15 E": {
+        "img": "/imgs/room-smith/room-smith_10_E.png"
+    },
+    "-4,15 S": {
+        "img": "/imgs/room-smith/room-smith_10_S.png"
+    },
+    "-4,15 W": {
+        "img": "/imgs/room-smith/room-smith_10_W.png"
+    },
+    "-4,14 N": {
+        "img": "/imgs/room-smith/room-smith_11_N.png"
+    },
+    "-4,14 E": {
+        "img": "/imgs/room-smith/room-smith_11_E.png"
+    },
+    "-4,14 S": {
+        "img": "/imgs/room-smith/room-smith_11_S.png"
+    },
+    "-4,14 W": {
+        "img": "/imgs/room-smith/room-smith_11_W.png"
+    },
+    "-5,15 N": {
+        "img": "/imgs/room-smith/room-smith_12_N.png"
+    },
+    "-5,15 E": {
+        "img": "/imgs/room-smith/room-smith_12_E.png"
+    },
+    "-5,15 S": {
+        "img": "/imgs/room-smith/room-smith_12_S.png"
+    },
+    "-5,15 W": {
+        "img": "/imgs/room-smith/room-smith_12_W.png"
+    },
+    "-5,14 N": {
+        "img": "/imgs/room-smith/room-smith_13_N.png"
+    },
+    "-5,14 E": {
+        "img": "/imgs/room-smith/room-smith_13_E.png"
+    },
+    "-5,14 S": {
+        "img": "/imgs/room-smith/room-smith_13_S.png"
+    },
+    "-5,14 W": {
+        "img": "/imgs/room-smith/room-smith_13_W.png"
+    },
+    "-6,15 N": {
+        "img": "/imgs/room-smith/room-smith_14_N.png"
+    },
+    "-6,15 E": {
+        "img": "/imgs/room-smith/room-smith_14_E.png"
+    },
+    "-6,15 S": {
+        "img": "/imgs/room-smith/room-smith_14_S.png"
+    },
+    "-6,15 W": {
+        "img": "/imgs/room-smith/room-smith_14_W.png"
+    },
+    "-6,14 N": {
+        "img": "/imgs/room-smith/room-smith_15_N.png"
+    },
+    "-6,14 E": {
+        "img": "/imgs/room-smith/room-smith_15_E.png"
+    },
+    "-6,14 S": {
+        "img": "/imgs/room-smith/room-smith_15_S.png"
+    },
+    "-6,14 W": {
+        "img": "/imgs/room-smith/room-smith_15_W.png"
+    },
+    "-6,13 N": {
+        "img": "/imgs/room-smith/room-smith_16_N.png"
+    },
+    "-6,13 E": {
+        "img": "/imgs/room-smith/room-smith_16_E.png"
+    },
+    "-6,13 S": {
+        "img": "/imgs/room-smith/room-smith_16_S.png"
+    },
+    "-6,13 W": {
+        "img": "/imgs/room-smith/room-smith_16_W.png"
+    },
+    "-7,13 N": {
+        "img": "/imgs/room-smith/room-smith_17_N.png"
+    },
+    "-7,13 E": {
+        "img": "/imgs/room-smith/room-smith_17_E.png"
+    },
+    "-7,13 S": {
+        "img": "/imgs/room-smith/room-smith_17_S.png"
+    },
+    "-7,13 W": {
+        "img": "/imgs/room-smith/room-smith_17_W.png"
+    },
+    "-10,14 N": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_0_N.png"
+    },
+    "-10,14 E": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_0_E.png"
+    },
+    "-10,14 S": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_0_S.png"
+    },
+    "-10,14 W": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_0_W.png"
+    },
+    "-10,13 N": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_1_N.png"
+    },
+    "-10,13 E": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_1_E.png"
+    },
+    "-10,13 S": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_1_S.png"
+    },
+    "-10,13 W": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_1_W.png"
+    },
+    "-10,12 N": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_2_N.png"
+    },
+    "-10,12 E": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_2_E.png"
+    },
+    "-10,12 S": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_2_S.png"
+    },
+    "-10,12 W": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_2_W.png"
+    },
+    "-10,11 N": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_3_N.png"
+    },
+    "-10,11 E": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_3_E.png"
+    },
+    "-10,11 S": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_3_S.png"
+    },
+    "-10,11 W": {
+        "img": "/imgs/room-sanctuary/room-sanctuary_3_W.png"
+    },
+    "-6,7 N": {
+        "img": "/imgs/room-flower/room-flower_0_N.png"
+    },
+    "-6,7 E": {
+        "img": "/imgs/room-flower/room-flower_0_E.png"
+    },
+    "-6,7 S": {
+        "img": "/imgs/room-flower/room-flower_0_S.png"
+    },
+    "-6,7 W": {
+        "img": "/imgs/room-flower/room-flower_0_W.png"
+    },
+    "-6,6 N": {
+        "img": "/imgs/room-flower/room-flower_1_N.png"
+    },
+    "-6,6 E": {
+        "img": "/imgs/room-flower/room-flower_1_E.png"
+    },
+    "-6,6 S": {
+        "img": "/imgs/room-flower/room-flower_1_S.png"
+    },
+    "-6,6 W": {
+        "img": "/imgs/room-flower/room-flower_1_W.png"
+    },
+    "-6,5 N": {
+        "img": "/imgs/room-flower/room-flower_2_N.png"
+    },
+    "-6,5 E": {
+        "img": "/imgs/room-flower/room-flower_2_E.png"
+    },
+    "-6,5 S": {
+        "img": "/imgs/room-flower/room-flower_2_S.png"
+    },
+    "-6,5 W": {
+        "img": "/imgs/room-flower/room-flower_2_W.png"
+    },
+    "-7,7 N": {
+        "img": "/imgs/room-flower/room-flower_3_N.png"
+    },
+    "-7,7 E": {
+        "img": "/imgs/room-flower/room-flower_3_E.png"
+    },
+    "-7,7 S": {
+        "img": "/imgs/room-flower/room-flower_3_S.png"
+    },
+    "-7,7 W": {
+        "img": "/imgs/room-flower/room-flower_3_W.png"
+    },
+    "-7,6 N": {
+        "img": "/imgs/room-flower/room-flower_4_N.png"
+    },
+    "-7,6 E": {
+        "img": "/imgs/room-flower/room-flower_4_E.png"
+    },
+    "-7,6 S": {
+        "img": "/imgs/room-flower/room-flower_4_S.png"
+    },
+    "-7,6 W": {
+        "img": "/imgs/room-flower/room-flower_4_W.png"
+    },
+    "-7,5 N": {
+        "img": "/imgs/room-flower/room-flower_5_N.png"
+    },
+    "-7,5 E": {
+        "img": "/imgs/room-flower/room-flower_5_E.png"
+    },
+    "-7,5 S": {
+        "img": "/imgs/room-flower/room-flower_5_S.png"
+    },
+    "-7,5 W": {
+        "img": "/imgs/room-flower/room-flower_5_W.png"
+    },
+    "-8,6 N": {
+        "img": "/imgs/room-flower/room-flower_6_N.png"
+    },
+    "-8,6 E": {
+        "img": "/imgs/room-flower/room-flower_6_E.png"
+    },
+    "-8,6 S": {
+        "img": "/imgs/room-flower/room-flower_6_S.png"
+    },
+    "-8,6 W": {
+        "img": "/imgs/room-flower/room-flower_6_W.png"
+    },
+    "-9,6 N": {
+        "img": "/imgs/room-flower/room-flower_7_N.png"
+    },
+    "-9,6 E": {
+        "img": "/imgs/room-flower/room-flower_7_E.png"
+    },
+    "-9,6 S": {
+        "img": "/imgs/room-flower/room-flower_7_S.png"
+    },
+    "-9,6 W": {
+        "img": "/imgs/room-flower/room-flower_7_W.png"
+    },
+    "-3,-6 N": {
+        "img": "/imgs/room-flower/room-flower_8_N.png"
+    },
+    "-3,-6 E": {
+        "img": "/imgs/room-flower/room-flower_8_E.png"
+    },
+    "-3,-6 S": {
+        "img": "/imgs/room-flower/room-flower_8_S.png"
+    },
+    "-3,-6 W": {
+        "img": "/imgs/room-flower/room-flower_8_W.png"
+    },
+    "-4,-6 N": {
+        "img": "/imgs/room-flower/room-flower_9_N.png"
+    },
+    "-4,-6 E": {
+        "img": "/imgs/room-flower/room-flower_9_E.png"
+    },
+    "-4,-6 S": {
+        "img": "/imgs/room-flower/room-flower_9_S.png"
+    },
+    "-4,-6 W": {
+        "img": "/imgs/room-flower/room-flower_9_W.png"
+    },
+    "-5,-5 N": {
+        "img": "/imgs/room-flower/room-flower_10_N.png"
+    },
+    "-5,-5 E": {
+        "img": "/imgs/room-flower/room-flower_10_E.png"
+    },
+    "-5,-5 S": {
+        "img": "/imgs/room-flower/room-flower_10_S.png"
+    },
+    "-5,-5 W": {
+        "img": "/imgs/room-flower/room-flower_10_W.png"
+    },
+    "-5,-6 N": {
+        "img": "/imgs/room-flower/room-flower_11_N.png"
+    },
+    "-5,-6 E": {
+        "img": "/imgs/room-flower/room-flower_11_E.png"
+    },
+    "-5,-6 S": {
+        "img": "/imgs/room-flower/room-flower_11_S.png"
+    },
+    "-5,-6 W": {
+        "img": "/imgs/room-flower/room-flower_11_W.png"
+    },
+    "-5,-7 N": {
+        "img": "/imgs/room-flower/room-flower_12_N.png"
+    },
+    "-5,-7 E": {
+        "img": "/imgs/room-flower/room-flower_12_E.png"
+    },
+    "-5,-7 S": {
+        "img": "/imgs/room-flower/room-flower_12_S.png"
+    },
+    "-5,-7 W": {
+        "img": "/imgs/room-flower/room-flower_12_W.png"
+    },
+    "-6,-5 N": {
+        "img": "/imgs/room-flower/room-flower_13_N.png"
+    },
+    "-6,-5 E": {
+        "img": "/imgs/room-flower/room-flower_13_E.png"
+    },
+    "-6,-5 S": {
+        "img": "/imgs/room-flower/room-flower_13_S.png"
+    },
+    "-6,-5 W": {
+        "img": "/imgs/room-flower/room-flower_13_W.png"
+    },
+    "-6,-6 N": {
+        "img": "/imgs/room-flower/room-flower_14_N.png"
+    },
+    "-6,-6 E": {
+        "img": "/imgs/room-flower/room-flower_14_E.png"
+    },
+    "-6,-6 S": {
+        "img": "/imgs/room-flower/room-flower_14_S.png"
+    },
+    "-6,-6 W": {
+        "img": "/imgs/room-flower/room-flower_14_W.png"
+    },
+    "-6,-7 N": {
+        "img": "/imgs/room-flower/room-flower_15_N.png"
+    },
+    "-6,-7 E": {
+        "img": "/imgs/room-flower/room-flower_15_E.png"
+    },
+    "-6,-7 S": {
+        "img": "/imgs/room-flower/room-flower_15_S.png"
+    },
+    "-6,-7 W": {
+        "img": "/imgs/room-flower/room-flower_15_W.png"
+    },
+    "-22,7 N": {
+        "img": "/imgs/room-chest/room-chest_0_N.png"
+    },
+    "-22,7 E": {
+        "img": "/imgs/room-chest/room-chest_0_E.png"
+    },
+    "-22,7 S": {
+        "img": "/imgs/room-chest/room-chest_0_S.png"
+    },
+    "-22,7 W": {
+        "img": "/imgs/room-chest/room-chest_0_W.png"
+    },
+    "-22,8 N": {
+        "img": "/imgs/room-chest/room-chest_1_N.png"
+    },
+    "-22,8 E": {
+        "img": "/imgs/room-chest/room-chest_1_E.png"
+    },
+    "-22,8 S": {
+        "img": "/imgs/room-chest/room-chest_1_S.png"
+    },
+    "-22,8 W": {
+        "img": "/imgs/room-chest/room-chest_1_W.png"
+    },
+    "-22,9 N": {
+        "img": "/imgs/room-chest/room-chest_2_N.png"
+    },
+    "-22,9 E": {
+        "img": "/imgs/room-chest/room-chest_2_E.png"
+    },
+    "-22,9 S": {
+        "img": "/imgs/room-chest/room-chest_2_S.png"
+    },
+    "-22,9 W": {
+        "img": "/imgs/room-chest/room-chest_2_W.png"
+    },
+    "-22,10 N": {
+        "img": "/imgs/room-chest/room-chest_3_N.png"
+    },
+    "-22,10 E": {
+        "img": "/imgs/room-chest/room-chest_3_E.png"
+    },
+    "-22,10 S": {
+        "img": "/imgs/room-chest/room-chest_3_S.png"
+    },
+    "-22,10 W": {
+        "img": "/imgs/room-chest/room-chest_3_W.png"
+    },
+    "-22,11 N": {
+        "img": "/imgs/room-chest/room-chest_4_N.png"
+    },
+    "-22,11 E": {
+        "img": "/imgs/room-chest/room-chest_4_E.png"
+    },
+    "-22,11 S": {
+        "img": "/imgs/room-chest/room-chest_4_S.png"
+    },
+    "-22,11 W": {
+        "img": "/imgs/room-chest/room-chest_4_W.png"
+    },
+    "-22,12 N": {
+        "img": "/imgs/room-chest/room-chest_5_N.png"
+    },
+    "-22,12 E": {
+        "img": "/imgs/room-chest/room-chest_5_E.png"
+    },
+    "-22,12 S": {
+        "img": "/imgs/room-chest/room-chest_5_S.png"
+    },
+    "-22,12 W": {
+        "img": "/imgs/room-chest/room-chest_5_W.png"
+    },
+    "-22,13 N": {
+        "img": "/imgs/room-chest/room-chest_6_N.png"
+    },
+    "-22,13 E": {
+        "img": "/imgs/room-chest/room-chest_6_E.png"
+    },
+    "-22,13 S": {
+        "img": "/imgs/room-chest/room-chest_6_S.png"
+    },
+    "-22,13 W": {
+        "img": "/imgs/room-chest/room-chest_6_W.png"
+    },
+    "-22,14 N": {
+        "img": "/imgs/room-chest/room-chest_7_N.png"
+    },
+    "-22,14 E": {
+        "img": "/imgs/room-chest/room-chest_7_E.png"
+    },
+    "-22,14 S": {
+        "img": "/imgs/room-chest/room-chest_7_S.png"
+    },
+    "-22,14 W": {
+        "img": "/imgs/room-chest/room-chest_7_W.png"
+    },
+    "-19,2 N": {
+        "img": "/imgs/room-chest/room-chest_8_N.png"
+    },
+    "-19,2 E": {
+        "img": "/imgs/room-chest/room-chest_8_E.png"
+    },
+    "-19,2 S": {
+        "img": "/imgs/room-chest/room-chest_8_S.png"
+    },
+    "-19,2 W": {
+        "img": "/imgs/room-chest/room-chest_8_W.png"
+    },
+    "-20,2 N": {
+        "img": "/imgs/room-chest/room-chest_9_N.png"
+    },
+    "-20,2 E": {
+        "img": "/imgs/room-chest/room-chest_9_E.png"
+    },
+    "-20,2 S": {
+        "img": "/imgs/room-chest/room-chest_9_S.png"
+    },
+    "-20,2 W": {
+        "img": "/imgs/room-chest/room-chest_9_W.png"
+    },
+    "-21,2 N": {
+        "img": "/imgs/room-chest/room-chest_10_N.png"
+    },
+    "-21,2 E": {
+        "img": "/imgs/room-chest/room-chest_10_E.png"
+    },
+    "-21,2 S": {
+        "img": "/imgs/room-chest/room-chest_10_S.png"
+    },
+    "-21,2 W": {
+        "img": "/imgs/room-chest/room-chest_10_W.png"
+    },
+    "-22,2 N": {
+        "img": "/imgs/room-chest/room-chest_11_N.png"
+    },
+    "-22,2 E": {
+        "img": "/imgs/room-chest/room-chest_11_E.png"
+    },
+    "-22,2 S": {
+        "img": "/imgs/room-chest/room-chest_11_S.png"
+    },
+    "-22,2 W": {
+        "img": "/imgs/room-chest/room-chest_11_W.png"
+    },
+    "-23,2 N": {
+        "img": "/imgs/room-chest/room-chest_12_N.png"
+    },
+    "-23,2 E": {
+        "img": "/imgs/room-chest/room-chest_12_E.png"
+    },
+    "-23,2 S": {
+        "img": "/imgs/room-chest/room-chest_12_S.png"
+    },
+    "-23,2 W": {
+        "img": "/imgs/room-chest/room-chest_12_W.png"
+    },
+    "-24,2 N": {
+        "img": "/imgs/room-chest/room-chest_13_N.png"
+    },
+    "-24,2 E": {
+        "img": "/imgs/room-chest/room-chest_13_E.png"
+    },
+    "-24,2 S": {
+        "img": "/imgs/room-chest/room-chest_13_S.png"
+    },
+    "-24,2 W": {
+        "img": "/imgs/room-chest/room-chest_13_W.png"
+    },
+    "-25,2 N": {
+        "img": "/imgs/room-chest/room-chest_14_N.png"
+    },
+    "-25,2 E": {
+        "img": "/imgs/room-chest/room-chest_14_E.png"
+    },
+    "-25,2 S": {
+        "img": "/imgs/room-chest/room-chest_14_S.png"
+    },
+    "-25,2 W": {
+        "img": "/imgs/room-chest/room-chest_14_W.png"
+    },
+    "-26,2 N": {
+        "img": "/imgs/room-chest/room-chest_15_N.png"
+    },
+    "-26,2 E": {
+        "img": "/imgs/room-chest/room-chest_15_E.png"
+    },
+    "-26,2 S": {
+        "img": "/imgs/room-chest/room-chest_15_S.png"
+    },
+    "-26,2 W": {
+        "img": "/imgs/room-chest/room-chest_15_W.png"
+    },
+    "-27,14 N": {
+        "img": "/imgs/spiral/spiral_0_N.png"
+    },
+    "-27,14 E": {
+        "img": "/imgs/spiral/spiral_0_E.png"
+    },
+    "-27,14 S": {
+        "img": "/imgs/spiral/spiral_0_S.png"
+    },
+    "-27,14 W": {
+        "img": "/imgs/spiral/spiral_0_W.png"
+    },
+    "-28,14 N": {
+        "img": "/imgs/spiral/spiral_1_N.png"
+    },
+    "-28,14 E": {
+        "img": "/imgs/spiral/spiral_1_E.png"
+    },
+    "-28,14 S": {
+        "img": "/imgs/spiral/spiral_1_S.png"
+    },
+    "-28,14 W": {
+        "img": "/imgs/spiral/spiral_1_W.png"
+    },
+    "-29,14 N": {
+        "img": "/imgs/spiral/spiral_2_N.png"
+    },
+    "-29,14 E": {
+        "img": "/imgs/spiral/spiral_2_E.png"
+    },
+    "-29,14 S": {
+        "img": "/imgs/spiral/spiral_2_S.png"
+    },
+    "-29,14 W": {
+        "img": "/imgs/spiral/spiral_2_W.png"
+    },
+    "-29,13 N": {
+        "img": "/imgs/spiral/spiral_3_N.png"
+    },
+    "-29,13 E": {
+        "img": "/imgs/spiral/spiral_3_E.png"
+    },
+    "-29,13 S": {
+        "img": "/imgs/spiral/spiral_3_S.png"
+    },
+    "-29,13 W": {
+        "img": "/imgs/spiral/spiral_3_W.png"
+    }
+}
+

@@ -1,0 +1,208 @@
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+
+    <!--
+    <style>
+        * { margin: 0; padding: 0; } /* to remove the top and left whitespace */
+        html, body { width: 100%; height: 100%; } /* just to be sure these are full screen */
+
+        canvas { display: block; } /* To remove the scrollbars */
+    </style>
+    -->
+</head>
+
+<body>
+
+
+<div class="aspect-ratio-container"><canvas id="main_canvas"></canvas></div>
+
+<script>
+    var direction = "W";
+    var x = 1;
+    var z = 0;
+    var current_img;
+    var current_state = '1,0 W';
+    var our_game_data = null;
+    var bk_audio;
+    const canvas = document.getElementById('main_canvas');
+    const context = canvas.getContext('2d');
+
+    function make_state_key(){
+        //console.log("Player position - x:", x, ", z:", z, ", facing:", direction);
+        return '' + x + ',' + z + ' ' + direction;
+    }
+
+    (function() {
+        // Resize the canvas to fill the browser window dynamically
+        window.addEventListener('resize', resizeCanvas, false);
+
+        function resizeCanvas() {
+            // Adjust canvas dimensions based on CSS size
+            canvas.width = canvas.clientWidth; // Use clientWidth for CSS dimensions
+            canvas.height = canvas.clientHeight; // Use clientHeight for CSS dimensions
+             // Redraw only if the game data is loaded
+            if (our_game_data && current_state) {
+                visit_state();
+            }
+            //drawStuff(); 
+        }
+
+        resizeCanvas();
+
+        function drawStuff() {
+            try {
+                if (current_img) { // Check if current_img is valid
+                    draw_image_on_canvas(current_img);
+                } else {
+                    console.error("Current image is not set.");
+                }
+            } catch (error) {
+                console.error("Error drawing image:", error);
+            }
+        }
+    })();
+
+    function draw_image_on_canvas(img) {
+        // Clear the canvas before drawing
+        context.clearRect(0, 0, canvas.width, canvas.height);
+
+        // Set the canvas dimensions based on CSS
+        const canvasWidth = canvas.clientWidth;
+        const canvasHeight = canvas.clientHeight;
+
+        // Calculate aspect ratio
+        const imgAspectRatio = img.width / img.height;
+        let drawWidth, drawHeight;
+
+        // Determine the new dimensions
+        if (canvasWidth / canvasHeight > imgAspectRatio) {
+            // If the canvas is wider than the image aspect ratio
+            drawWidth = canvasHeight * imgAspectRatio;
+            drawHeight = canvasHeight;
+        } else {
+            // If the canvas is taller than the image aspect ratio
+            drawWidth = canvasWidth;
+            drawHeight = canvasWidth / imgAspectRatio;
+        }
+
+        // Center the image on the canvas
+        const x = (canvasWidth - drawWidth) / 2;
+        const y = (canvasHeight - drawHeight) / 2;
+
+        // Draw the image
+        context.drawImage(img, x, y, drawWidth, drawHeight);
+    }
+
+    function visit_state() {
+        console.log(current_state);
+        draw_image_on_canvas(our_game_data[current_state]["img_o"]);
+    }
+
+    function load_all_imgs() {
+        console.log(our_game_data);
+        for (const property in our_game_data) {
+            console.log("init load " + property);
+            if (our_game_data[property]["img"] != null) {
+                let img = new Image();
+                img.src = our_game_data[property]["img"];
+                
+                // Only assign and draw the image once it has fully loaded
+                img.onload = function() {
+                    our_game_data[property]["img_o"] = img;
+                    if (property === current_state) {  // Immediately draw the current state image if available
+                        draw_image_on_canvas(img);
+                    }
+                    console.log("Image loaded: " + property);
+                };
+
+                // Handle broken images
+                img.onerror = function() {
+                    console.error("Failed to load image: " + our_game_data[property]["img"]);
+                };
+            }
+        }
+    }
+
+
+    let lastVerticalMoveTime = 0; // Track the last time an up/down move was processed
+    const verticalMoveDelay = 100; // Delay in milliseconds for up/down moves
+
+    document.addEventListener('keydown', (e) => {
+        e.preventDefault();  // Prevent default behavior to avoid double firing
+
+        const currentTime = Date.now();
+        const move = { x: 0, z: 0 };  // Default move is no movement
+        
+        switch (e.key) {
+            case "ArrowLeft":
+                if (direction === 'N') direction = 'W';
+                else if (direction === 'W') direction = 'S';
+                else if (direction === 'S') direction = 'E';
+                else if (direction === 'E') direction = 'N';
+                break;
+            case "ArrowRight":
+                if (direction === 'N') direction = 'E';
+                else if (direction === 'E') direction = 'S';
+                else if (direction === 'S') direction = 'W';
+                else if (direction === 'W') direction = 'N';
+                break;
+            case "ArrowUp":
+            case "ArrowDown":
+                // Check if enough time has passed for vertical movement
+                if (currentTime - lastVerticalMoveTime < verticalMoveDelay) return;
+
+                // Determine movement based on direction and key
+                if (e.key === "ArrowUp") {
+                    if (direction === 'N') move.z = -1;
+                    else if (direction === 'W') move.x = -1;
+                    else if (direction === 'S') move.z = 1;
+                    else if (direction === 'E') move.x = 1;
+                } else if (e.key === "ArrowDown") {
+                    if (direction === 'N') move.z = 1;
+                    else if (direction === 'W') move.x = 1;
+                    else if (direction === 'S') move.z = -1;
+                    else if (direction === 'E') move.x = -1;
+                }
+
+                // Update lastVerticalMoveTime for throttling
+                lastVerticalMoveTime = currentTime;
+                break;
+        }
+
+        // Preview new position based on direction
+        const newX = x + move.x;
+        const newZ = z + move.z;
+
+        // Check if the new position is valid
+        if (our_game_data[`${newX},${newZ} ${direction}`]) {
+            x = newX;
+            z = newZ;
+        } else {
+            console.log("Hit a wall");
+        }
+
+        // Update current_state and log position
+        current_state = make_state_key();
+        console.log(`Player position - x: ${x}, z: ${z}, facing: ${direction}`);
+        visit_state();
+    });
+
+
+
+    $(document).ready(function() {
+        setTimeout(function() {
+            $.getJSON("mm1.json", function(data) {
+                console.log(data);
+                our_game_data = data;
+                load_all_imgs();
+                setTimeout(visit_state, 1000);
+            });
+        }, 1000);    
+    });
+</script>
+</body>
+</html>
